@@ -556,6 +556,6 @@
 
 —3— **Lebend, zahle er das Zweifache,** und zahle nicht tote, sondern lebende oder den Wert von lebenden (Mech.). 
 
-—3— **Lebend, zahle er das Zweifache,** und zahle nicht tote, sondern lebende oder den Wert von lebenden (Mekhilta d'Rabbi Yishmael 22:3:4). 
+—4— **Lebend, zahle er das Zweifache,** und zahle nicht tote, sondern lebende oder den Wert von lebenden (Mekhilta d'Rabbi Yishmael 22:3:4). 
 
 ---
