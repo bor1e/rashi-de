@@ -6,13 +6,17 @@
 
 —3— **20. Wenn jemand seinen Knecht oder seine Magd schlägt,** vom kenaanitischen Knecht spricht der Vers; oder vielleicht nicht, sondern vom hebräischen? Darum steht, denn er ist sein Geld; wie ihm sein Geld für immer gehört, so spricht man auch von einem Knecht, der ihm für immer gehört. Auch dieser war in jener Regel enthalten (V. 12), wer einen anderen schlägt, dass er stirbt; doch kommt unser Vers und nimmt ihn aus dieser Regel heraus, dass auf ihn die Vorschrift von «einem bis zwei Tagen» angewandt werde; wenn er nämlich nicht unter seiner Hand stirbt und noch 24 Stunden lebt, so ist sein Herr frei (Mech.). 
 
+—4— **20. Wenn jemand seinen Knecht oder seine Magd schlägt,** vom kenaanitischen Knecht spricht der Vers; oder vielleicht nicht, sondern vom hebräischen? Darum steht: «denn er ist sein Geld» (Exodus 21:21); wie ihm sein Geld für immer gehört, so spricht man auch von einem Knecht, der ihm für immer gehört. Auch dieser war in jener Regel enthalten «wer einen anderen schlägt, dass er stirbt» (V. 12), doch kommt unser Vers und nimmt ihn aus dieser Regel heraus, dass auf ihn die Vorschrift von «einem bis zwei Tagen» (Exodus 21:21) angewandt werde; wenn er nämlich nicht unter seiner Hand stirbt und noch 24 Stunden lebt, so ist sein Herr frei (Mekhilta d'Rabbi Yishmael 21.20.1). 
+
 ---
 
 ////—1—//// 21:20:2,"**With a rod.** When it (the rod) is capable of causing death — the Torah is speaking. Or perhaps it refers even to [a rod] which is incapable of causing death? Therefore the Torah says concerning a Yisraelite [victim]: “And if with a stone in his hand, whereby he would die, did he strike him.” Now in this matter does it not follow <font color=d50505>»</font>a fortiori.<font color=d50505>«</font> Just as [when the victim is] a Yisraelite [whose murder is] more stringent, and he (the murderer) is not liable [to be put to death] unless he struck him with something that is capable of causing death, and upon a limb which is capable of causing death with this sort of a blow, then regarding [a victim who is] a slave, whose killing is more lenient, it follows even more so. "
 
 §§—2—§§ 21:20:2," <font color=#d633ff>🟌</font>בשבט WITH A ROD — Scripture speaks of a rod that is capable of inflicting death. Or perhaps it speaks even of one that is not capable of inflicting death (but some-how or other the servant died beneath his hand)? Scripture however states, (Numbers 35:17) in reference to an Israellite (cf. Numbers 35:15) “And if he smote him with a stone in the hand, wherewith he may die, [and he die, he is a murderer]”. Now is not the following statement a logical conclusion à fortiori? How is it if one has killed an Israelite whose case is more stringent (inasmuch as the leniency mentioned in v. 21 is not applied to it)? He is not subject to the death penalty unless he smote him with an instrument capable of inflicting death and unless it be a limb through the striking of which by such an instrument he is likely to die! Then in the case of a servant where (as can be seen from v. 21) the conditions are less stringent, does it not follow all the more that he is not subject to the death penalty? (cf. Mekhilta d'Rabbi Yishmael 21.20.4)."
 
-—3— **Mit dem Stab,** davon, dass dieser geeignet war, zu töten, spricht der Vers; oder vielleicht nicht; sondern auch, wenn er nicht zum Töten geeignet war? Darum steht beim Israeliten (Num. 35, 17), wenn er ihn mit einem handgroßen Stein, durch den er sterben konnte, geschlagen hat. Und siehe, die Sache ist ein Schluss vom Leichten zum Schweren; wenn er selbst bei einem Israeliten, wo die Sache strenger ist, nur schuldig wird, wenn er ihn mit einem Gegenstand geschlagen hat, der zum Töten geeignet war, und auf ein Glied, wo er durch diesen Schlag sterben konnte; beim Knecht, wo die Sache leichter ist, nicht um so mehr! (Mech.). 
+—3— **Mit dem Stab,** davon, dass dieser geeignet war, zu töten, spricht der Vers; oder vielleicht nicht; sondern auch, wenn er nicht zum Töten geeignet war? Darum steht beim Israeliten, (Num. 35, 17) wenn er ihn mit einem handgroßen Stein, durch den er sterben konnte, geschlagen hat. Und siehe, die Sache ist ein Schluss vom Leichten zum Schweren (קל וחומר); wenn er selbst bei einem Israeliten, wo die Sache strenger ist, nur schuldig wird, wenn er ihn mit einem Gegenstand geschlagen hat, der zum Töten geeignet war, und auf ein Glied, wo er durch diesen Schlag sterben konnte; beim Knecht, wo die Sache leichter ist, nicht um so mehr! (cf. Mekhilta d'Rabbi Yishmael 21.20.4). 
+
+—4— **Mit dem Stab,** davon, dass dieser geeignet war, zu töten, spricht der Vers; oder vielleicht nicht; sondern auch, wenn er nicht zum Töten geeignet war? Darum steht beim Israeliten: «wenn er ihn mit einem handgroßen Stein, durch den er sterben konnte, geschlagen hat» (Num. 35, 17). Und siehe, die Sache ist ein Schluss vom Leichten zum Schweren; wenn er selbst bei einem Israeliten, wo die Sache strenger ist, nur schuldig wird, wenn er ihn mit einem Gegenstand geschlagen hat, der zum Töten geeignet war, und auf ein Glied, wo er durch diesen Schlag sterben konnte; beim Knecht, wo die Sache leichter ist, nicht um so mehr! (Mech.). 
 
 ---
 
@@ -22,6 +26,8 @@
 
 —3— **Soll es geahndet werden,** durch Hinrichtung mit dem Schwerte; so sagt er auch (Lev. 26, 25), das Schwert, das die Ahndung des Bundes vollzieht (Sanhedrin 52b; Mech.). 
 
+—4— **Soll es geahndet werden,** durch Hinrichtung mit dem Schwerte; so sagt er auch: «das Schwert, das die *Ahndung* des Bundes vollzieht» (Lev. 26, 25). (Sanhedrin 52b; Mekhilta d'Rabbi Yishmael 21.20.6) 
+
 ---
 
 ////—1—//// 21:21:1,"**However, if he survives for a day or two his death is not avenged.** If one day[’s survival] frees [the master from the death penalty,] then is not two days’ survival even more self-evident? But [the answer is that <font color=#d633ff>🟌</font>יוֹמַיִם is said to teach that] “one day” should be as two days. And how is this? A full day of twenty-four hours. "
@@ -29,6 +35,8 @@
 §§—2—§§ 21:21:1," <font color=#d633ff>🟌</font>אך <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>יום <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>יומים <font color=#d633ff>🟌</font>יעמד <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>יקם NOTWITHSTANDING IF HE CONTINUE A DAY OR TWO, HE SHALL NOT BE AVENGED — If the master is free of the death penally in case of the servant remaining alive one day, is it not logical that he is free if he lives two days (what need is there for Scripture to add <font color=#d633ff>🟌</font>יומים)? But it adds it to show that the term <font color=#d633ff>🟌</font>יום is to be defined by <font color=#d633ff>🟌</font>יומים — “a day that is like two days”. And what kind of day is thereby meant? A period of twenty-four hours (a day which comprises a part of two separate days) (cf. Mekhilta d'Rabbi Yishmael 21:21:1)."
 
 —3— **21. Wenn er jedoch noch einen bis zwei Tage lebt, soll es nicht geahndet werden;** wenn er bei einem läge frei ist, bei zwei Tagen doch um so mehr? Nur, es bedeutet, ein Tag, der gleich zwei Tagen ist, und was ist das? 24 Stunden (die am ersten Tag beginnen und am folgenden aufhören) (Mech.). 
+
+—4— **21. Wenn er jedoch noch einen bis zwei Tage lebt, soll es nicht geahndet werden;** wenn er bei einem läge frei ist, bei zwei Tagen doch um so mehr? Nur, יוֹמַיִם bedeutet, "ein Tag" יום, der gleich zwei Tagen ist, und was ist das? 24 Stunden (die am ersten Tag beginnen und am folgenden aufhören) (cf. Mekhilta d'Rabbi Yishmael 21:21:1). 
 
 ---
 
@@ -38,6 +46,8 @@
 
 —3— **Werde es nicht geahndet, weil er sein Geld ist;** wenn ihn aber ein anderer geschlagen hat, ist er schuldig, wenn er auch noch 24 Stunden gelebt hat, bevor er starb. 
 
+—4— **Werde es nicht geahndet, weil er sein Geld ist;** wenn ihn aber ein anderer geschlagen hat, ist er schuldig, wenn er auch noch 24 Stunden gelebt hat, bevor er starb. 
+
 ---
 
 ////—1—//// 21:22:1,"**If men will fight —** with one another, and one intended to strike the other and [inadvertently] struck the woman. "
@@ -45,6 +55,8 @@
 §§—2—§§ 21:22:1, <font color=#d633ff>🟌</font>וכי <font color=#d633ff>🟌</font>ינצו <font color=#d633ff>🟌</font>אנשים IF MEN STRIVE with each other and one intended to strike the other and inadvertently struck the woman (Sanhedrin 79b).
 
 —3— **22. Wenn Männer streiten,** miteinander, und einer den anderen schlagen wollte und eine Frau traf (Mech.). 
+
+—4— **22. Wenn Männer streiten,** miteinander, und einer den anderen schlagen wollte und eine Frau traf (Sanhedrin 79b; Mech.). 
 
 ---
 
@@ -54,6 +66,8 @@
 
 —3— **Und sie stoßen,** <font color=#d633ff>🟌</font>נגיפה bedeutet überall stoßen und schlagen; wie (Ps. 91, 12), dass sich dein Fuß nicht an einem Steine stoße; (Jer. 13, 16) bevor sich eure Füße stoßen; (Jes. 8, 14) zum Stein des Anstoßes. 
 
+—4— **Und sie stoßen,** <font color=#d633ff>🟌</font>נְגִיפָה bedeutet überall *stoßen* und *schlagen*; wie «dass sich dein Fuß nicht an einem Steine stoße (<font color=#d633ff>🟌</font>תגוף)» (Ps. 91, 12); «bevor sich eure Füße stoßen (<font color=#d633ff>🟌</font>יתנגפו)»  (Jer. 13, 16); «zum Stein des Anstoßes (<font color=#d633ff>🟌</font>נגף)» (Jes. 8, 14). 
+
 ---
 
 ////—1—//// 21:22:3,**but there is no fatal injury —** to the woman.
@@ -61,6 +75,8 @@
 §§—2—§§ 21:22:3, <font color=#d633ff>🟌</font>ולא <font color=#d633ff>🟌</font>יהיה <font color=#d633ff>🟌</font>אסון AND YET THERE BE NO MISCHIEF — no further mischief with the woman (Sanhedrin 79b).
 
 —3— **Aber es geschieht kein Unfall** der Frau (Mech.). 
+
+—4— **Aber es geschieht kein Unfall** der Frau (Sanhedrin 79b; Mech.). 
 
 ---
 
@@ -70,6 +86,8 @@
 
 —3— **Soll es mit Geld gebüsst werden,** dem Manne den Wert der Kinder zu zahlen; man schätzt die Frau ab, wieviel sie wert ist, auf dem Markte verkauft zu werden, und erhöht ihren Wert, weil sie eine werdende Mutter ist (Mech.). 
 
+—4— **Soll es mit Geld gebüsst werden,** dem Manne den Wert der Kinder zu zahlen; man schätzt die Frau ab, wieviel sie wert ist, auf dem Markte verkauft zu werden, und erhöht ihren Wert, weil sie eine werdende Mutter ist (Bava Kamma 49a; Mech.). 
+
 ---
 
 ////—1—//// 21:22:5,**He is to be punished.** They shall impose monetary compensation on him as in: “(<font color=#d633ff>🟌</font>וְעָנְשׁוּ) they shall impose upon him a payment of one hundred silver [shekels].”
@@ -77,6 +95,8 @@
 §§—2—§§ 21:22:5," <font color=#d633ff>🟌</font>ענוש <font color=#d633ff>🟌</font>יענש (lit., he shall surely be punished) — It means that they shall exact money from him. <font color=#d633ff>🟌</font>ענוש is used here in the same sense as in, (Deuteronomy 22:19) “And they shall amerce (<font color=#d633ff>🟌</font>וענשו) him an hundred shekel of silver”."
 
 —3— **Soll es gebüsst werden,** man erhebe Geld von ihm; wie (Deut. 22,19), man strafe ihn 100 Silberstücke. 
+
+—4— **Soll es gebüsst werden,** man erhebe Geld von ihm; wie «man strafe (וְעָנְשׁוּ) ihn 100 Silberstücke» (Deut. 22,19). 
 
 ---
 
@@ -86,6 +106,8 @@
 
 —3— **Wie ihm auferlegt,** wenn der Mann durch das Gericht von ihm fordert, dass man ihm dafür eine Geldbusse auferlege. 
 
+—4— **Wie ihm auferlegt,** wenn der Mann durch das Gericht von ihm fordert, dass man ihm dafür eine Geldbusse auferlege (cf. Mekhilta d'Rabbi Yishmael 21:23:7). 
+
 ---
 
 ////—1—//// 21:22:7,"**He shall pay.** I.e., the one who struck [the one woman] [shall pay] the value of the offspring. "
@@ -93,6 +115,8 @@
 §§—2—§§ 21:22:7, <font color=#d633ff>🟌</font>ונתן THEN HE SHALL GIVE — i. e. the man that struck the woman shall give the value of the offspring.
 
 —3— **So gebe,** der geschlagen hat, den Wert der Kinder. 
+
+—4— **So gebe,** der geschlagen hat, den Wert der Kinder. 
 
 ---
 
@@ -102,6 +126,8 @@
 
 —3— **Nach dem Urteil der Richter,** auf Ausspruch der Richter (Mech.). 
 
+—4— **Nach dem Urteil der Richter,** בִפְּלִלִים auf Ausspruch der Richter (Mekhilta d'Rabbi Yishmael 21:23:9). 
+
 ---
 
 ////—1—//// 21:23:1,**However if there is a fatal injury —** to the woman.
@@ -109,6 +135,8 @@
 §§—2—§§ 21:23:1," <font color=#d633ff>🟌</font>ואם <font color=#d633ff>🟌</font>אסון <font color=#d633ff>🟌</font>יהיה AND IF THERE BE ANY FURTHER MISCHIEF — in the case of the woman,"
 
 —3— **23. Wenn aber ein Unfall geschehen ist,** der Frau. 
+
+—4— **23. Wenn aber ein Unfall geschehen ist,** der Frau. 
 
 ---
 
@@ -118,6 +146,8 @@
 
 —3— **So gib Leben für Leben,** unsere Lehrer sind darüber verschiedener Ansicht; manche sagen wörtlich, Leben, und manche sagen, Geld und nicht wörtlich Leben; denn, wenn einer die Absicht hatte, den einen zu töten, und einen anderen tötete, so ist er frei von Todesstrafe und zahlt den Erben den Wert, wie er auf dem Markte verkauft worden wäre (Mech.). 
 
+—4— **So gib Leben für Leben,** unsere Lehrer sind über <font color=#d633ff>🟌</font>נפש verschiedener Ansicht; manche sagen wörtlich, *Leben*, und manche sagen, Geld und nicht wörtlich *Leben*; denn, wenn einer die Absicht hatte, den einen zu töten, und einen anderen tötete, so ist er frei von Todesstrafe und zahlt den Erben den Wert, wie er auf dem Markte verkauft worden wäre (Sanhedrin 79a; Mech.). 
+
 ---
 
 ////—1—//// 21:24:1,"**An eye for an eye.** If he blinded the eye of another person he must compensate him for the worth of his eye, [i.e.,] the amount his worth decreased were he to be sold [as a slave] in the marketplace. all the other cases are similar to this and they do not refer to the actual removal of a limb, as our Sages expounded in Chapter Hachovel. "
@@ -125,6 +155,8 @@
 §§—2—§§ 21:24:1," <font color=#d633ff>🟌</font>עין <font color=#d633ff>🟌</font>תחת <font color=#d633ff>🟌</font>עין EYE FOR EYE — If one blinded the eye of his fellow-man he has to pay him the value of his eye, i. e. he pays him how much his value would be diminished if he were to be sold as a slave in the market. In the same way all other cases are to be dealt with, but it does not mean the actual cutting off of the offender’s limb — just as our Rabbis have explained in the chapter beginning with the word <font color=#d633ff>🟌</font>החובל (Bava Kamma 84a)."
 
 —3— **24. Auge für Auge,** hat er das Auge des anderen geblendet, gibt er ihm den Wert seines Auges, wieviel sein Wert geringer geworden, ihn auf dem Markte zu verkaufen; und so in allen diesen Fällen; aber nicht, dass man ihm wörtlich das Glied nimmt; so erklären unsere Lehrer im Abschnitt <font color=#d633ff>🟌</font>החובל (Bab. kam. 84a). 
+
+—4— **24. Auge für Auge,** hat er das Auge des anderen geblendet, gibt er ihm den Wert seines Auges, wieviel sein Wert geringer geworden, ihn auf dem Markte zu verkaufen; und so in allen diesen Fällen; aber nicht, dass man ihm wörtlich das Glied nimmt; so erklären unsere Lehrer im Abschnitt <font color=#d633ff>🟌</font>החובל (Bab. kam. 84a). 
 
 ---
 
@@ -134,6 +166,8 @@
 
 —3— **25. Brandmal für Brandmal,** Wunde durch Feuer; bis jetzt spricht er von einer Verletzung, die mit einer Verminderung des Wertes verbunden ist; und jetzt, wenn keine Verminderung des Wertes entstanden ist, sondern nur ein Schmerz; wenn er ihn z. B. mit einem Spiess auf seinen Nägeln gebrannt hat, schätzt man ab, wieviel ein Mensch so wie er beanspruchen würde, um einen solchen Schmerz zu erdulden (dort). 
 
+—3— **25. Brandmal für Brandmal,** כְּוִיָּה - Wunde durch Feuer; bis jetzt (bis V. 24) spricht er von einer Verletzung, die mit einer Verminderung des Wertes verbunden ist; und jetzt, wenn keine Verminderung des Wertes entstanden ist, sondern nur ein Schmerz; wenn er ihn z. B. mit einem Spiess auf seinen Nägeln gebrannt hat, schätzt man ab, wieviel ein Mensch so wie er beanspruchen würde, um einen solchen Schmerz zu erdulden (Bava Kamma 84b). 
+
 ---
 
 ////—1—//// 21:25:2,"**A wound.** [<font color=#d633ff>🟌</font>פֶּצַע] is a wound that draws blood whereby his (the victim’s) flesh was lacerated, <font color=d50505>»</font>navrdure<font color=d50505>«</font> in Old French — “a wound.” [The liability of the one inflicting the wound] all depends on what occurred: If [the blow] causes a diminishing of [the victim’s] worth he must pay damages. If [the victim] is confined to bed, he must pay for loss of work, and medical costs, and the shame the victim suffers and the pain the victim suffers. Actually this verse is superfluous. In the Chapter Hachovel our Sages expound it to make him liable for inflicting pain even where damages [have been paid], i.e., although he has compensated him for the value of his hand, we do not absolve him from [paying for] the pain, by suggesting that since he (the damager) has, in effect, bought his (the victim’s) hand he therefore should have the right to sever it in whatever manner he wishes, But rather we say: he should have severed it with an anesthetic, whereby the victim would not endure so much pain. But he, however, severed it with metal and inflicted pain [and he must therefore pay for that pain]. "
@@ -141,6 +175,8 @@
 §§—2—§§ 21:25:2," <font color=#d633ff>🟌</font>פצע is an injury which draws blood — the accused having crushed the other’s flesh; navrure in old French In such a case it all depends upon what happens: if any decrease in his market-value is caused the other pays him an indemnity (<font color=#d633ff>🟌</font>נזק); if he is confined to his bed, he has to pay for loss of time, for medical treatment, for the shame he feels at being somewhat disfigured and for the pain he has been made to suffer. This passage, (<font color=#d633ff>🟌</font>פצע <font color=#d633ff>🟌</font>תחת <font color=#d633ff>🟌</font>פצע), is apparently redundant, but our Rabbis explained in the chapter beginning with the word <font color=#d633ff>🟌</font>החובל (Bava Kamma 85b) that Scripture intends by this statement to make one liable to pay for pain inflicted even in a case when one has already paid damages (<font color=#d633ff>🟌</font>נזק) for decrease in one’s value — that although he has paid him the value of his hand, we do not exempt him from paying also for pain inflicted, arguing thus: Since he has, so to say, purchased his hand by paying its value, he was entitled to cut if off by whatever means he pleases; but we say that he ought to have removed it by means of a poisonous drug when he would not have suffered so much pain. He, however, cut if off by means of an iron instrument and caused him great pain; therefore he is bound to pay for pain inflicted also."
 
 —3— **Wunde,** ist eine Verletzung, aus der Blut kommt, wenn er ihm das Fleisch verletzt hat; Verwundung in andere Sprachen; es kommt ganz darauf an, wie sich die Sache verhält; wenn eine Verminderung des Wertes eingetreten ist, gibt er ihm Schadenersatz; wenn er aufs Lager gefallen ist, gibt er ihm Versäumnis, Heilung, Beschämung und Schmerzensgeld; dieser Vers scheint übrig zu sein; in <font color=#d633ff>🟌</font>החובל (Bab. kam. 84a) haben ihn unsere Lehrer so erklärt, dass man ihn zu Schmerzensgeld verpflichte außerdem, dass er Schadenersatz zu leisten hat; wenn er ihm auch den Wert seiner Hand ersetzt hat, befreit man ihn doch nicht von Schmerzensgeld, dass man sage, weil er seine Hand erworben hat, dürfe er sie abschneiden, auf welche Weise er wolle; sondern man sagt, er hätte sie auch durch ein Gift abnehmen können, wodurch er nicht solche Schmerzen gehabt hätte, während er sie ihm durch Eisen abgenommen und ihm Schmerzen bereitet hat. 
+
+—4— **Wunde,** ist eine Verletzung, aus der Blut kommt, wenn er ihm das Fleisch verletzt hat; *Verwundung* in andere Sprachen; es kommt ganz darauf an, wie sich die Sache verhält; wenn eine Verminderung des Wertes eingetreten ist, gibt er ihm Schadenersatz (<font color=#d633ff>🟌</font>נזק); wenn er aufs Lager gefallen ist, gibt er ihm Versäumnis, Heilung, Beschämung und Schmerzensgeld; dieser Vers (<font color=#d633ff>🟌</font>פצע <font color=#d633ff>🟌</font>תחת <font color=#d633ff>🟌</font>פצע) scheint übrig zu sein; in <font color=#d633ff>🟌</font>החובל (Bab. kam. 84a) haben ihn unsere Lehrer so erklärt, dass man ihn zu Schmerzensgeld verpflichte außerdem, dass er Schadenersatz (<font color=#d633ff>🟌</font>נזק) zu leisten hat; wenn er ihm auch den Wert seiner Hand ersetzt hat, befreit man ihn doch nicht von Schmerzensgeld, dass man sage, weil er seine Hand erworben hat, dürfe er sie abschneiden, auf welche Weise er wolle; sondern man sagt, er hätte sie auch durch ein Gift abnehmen können, wodurch er nicht solche Schmerzen gehabt hätte, während er sie ihm durch Eisen abgenommen und ihm Schmerzen bereitet hat. 
 
 ---
 
@@ -150,6 +186,8 @@
 
 —3— **Beule,** ist ein Schlag, durch den das Blut gerinnt, aber nicht herauskommt; sondern das Fleisch ist an der Stelle nur gerötet; das Wort <font color=#d633ff>🟌</font>חבורה heißt Flecken in andere Sprachen; wie (Jer. 13, 23), und der Leopard seine Flecken; der Targum sagt <font color=#d633ff>🟌</font>משקופי, das heißt Schlag; Hieb in andere Sprachen; ebenso (Gen. 41, 6), ausgedroschen vom Ost wind, <font color=#d633ff>🟌</font>שקיפן, vom Ostwind ausgeschlagen; ebenso Oberschwelle (12, 7), weil die Tür daran schlägt. 
 
+—4— **Beule,** <font color=#d633ff>🟌</font>חַבּוּרָה ist ein Schlag, durch den das Blut gerinnt, aber nicht herauskommt; sondern das Fleisch ist an der Stelle nur gerötet; das Wort <font color=#d633ff>🟌חַבּוּרָה heißt *Flecken* in andere Sprachen; wie «und der Leopard seine *Flecken* (<font color=#d633ff>🟌</font>חֲבַרְבְּרֹתָיו)» (Jer. 13, 23); der Targum sagt (מַשְׁקוֹפֵי), das heißt Schlag; *Hieb* in andere Sprachen; ebenso “<font color=#d633ff>🟌</font>שְׁדוּפוֹת <font color=#d633ff>🟌</font>קָדִים” «ausgedroschen vom Ostwind» (Gen. 41, 6), sagt Targum “<font color=#d633ff>🟌</font>שְׁקִיפָן <font color=#d633ff>🟌</font>קִּדּוּם” vom Ostwind ausgeschlagen; ebenso <font color=#d633ff>🟌</font>עַל <font color=#d633ff>🟌</font>הַמַּשְׁקוֹף Oberschwelle (Exodus 12, 7), weil die Tür daran *schlägt*. 
+
 ---
 
 ////—1—//// 21:26:1,**The eye of his slave —** who is gentile. But a Hebrew [slave] does not go out free due to the loss of a tooth or an eye as we have already said regarding [the verse] “She shall not go free as do the [gentile] male-slaves.”
@@ -157,6 +195,8 @@
 §§—2—§§ 21:26:1," <font color=#d633ff>🟌</font>את <font color=#d633ff>🟌</font>עין <font color=#d633ff>🟌</font>עבדו [AND IF A MAN SMITE] THE EYE OF HIS SERVANT — of a Canaanitish servant; but the Hebrew servant does not got free on account of his tooth or his eye having been knocked out by his master, as we have stated in our comment on the passage <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>תצא <font color=#d633ff>🟌</font>כצאת <font color=#d633ff>🟌</font>העבדים (v. 7)."
 
 —3— **26. Das Auge seines Knechtes,** des kenaanitischen; aber der hebräische wird nicht frei wegen des Zahnes und Auges, wie wir gesagt haben (V. 7), sie gehe nicht weg, wie die Knechte Weggehen. 
+
+—4— **26. Das Auge seines Knechtes,** des kenaanitischen; aber der hebräische wird nicht frei wegen des Zahnes und Auges, wie wir gesagt haben <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>תצא <font color=#d633ff>🟌</font>כצאת <font color=#d633ff>🟌</font>העבדים «sie gehe nicht weg, wie die Knechte Weggehen» (V. 7). 
 
 ---
 
@@ -166,6 +206,8 @@
 
 —3— **Für sein Auge,** und ebenso für die 24 Spitzen der Glieder, der Finger und der Zehen, der Ohren, der Nase und des männlichen Gliedes; warum stehen aber Zahn und Auge? Wenn Auge stehen würde und nicht Zahn, sö hätte ich gesagt, wie das Auge mit geboren ist, so nur bei dem, was mitgeboren ist; der Zahn aber ist nicht mitgeboren; und wenn Zahn stehen würde und nicht Auge, so hätte ich gesagt, selbst ein Kinderzahn, der wieder nachwächst, darum steht Auge (Mech.). 
 
+—4— **Für sein Auge,** und ebenso für die 24 Spitzen der Glieder, der Finger und der Zehen, der Ohren, der Nase und <font color=#d633ff>🟌</font>רֹאֹש <font color=#d633ff>🟌</font>הַגְּוִיָּה des männlichen *Gliedes*; warum stehen aber *Zahn* und *Auge*? Wenn *Auge* stehen würde und nicht *Zahn*, sö hätte ich gesagt, wie das *Auge* mit geboren ist, so nur bei dem, was mitgeboren ist; der *Zahn* aber ist nicht mitgeboren; und wenn *Zahn* stehen würde und nicht *Auge*, so hätte ich gesagt, selbst ein Kinderzahn, der wieder nachwächst, darum steht *Auge* (Kiddushin 24b; Mech.). 
+
 ---
 
 ////—1—//// 21:28:1,"**If an ox gores.** Whether it be an ox or any animal, beast or bird. But the Torah speaks of what is common. "
@@ -173,6 +215,8 @@
 §§—2—§§ 21:28:1," <font color=#d633ff>🟌</font>וכי <font color=#d633ff>🟌</font>יגח <font color=#d633ff>🟌</font>שור AND IF AN OX THRUST — This law applies to an ox as well to any other cattle, wild beast or fowl, but Scripture mentions the ox, because it speaks of what usually occurs (Bava Kamma 54b)."
 
 —3— **28. Wenn ein Ochs stösst,** es ist gleich, ob es ein Ochs oder sonst irgendein zahmes Tier, Gewild oder Vogel ist, nur spricht der Vers von dem, was gewöhnlich vorkommt (Bab. kam. 54b; Mech.). 
+
+—4— **28. Wenn ein Ochs stösst,** es ist gleich, ob es ein Ochs oder sonst irgendein zahmes Tier, Gewild oder Vogel ist, nur spricht der Vers von dem, was gewöhnlich vorkommt (Bab. kam. 54b; Mech.). 
 
 ---
 
@@ -182,6 +226,8 @@
 
 —3— **Und sein Fleisch darf nicht gegessen werden,** weiß ich denn nicht aus dem Sinn der Worte, der Ochs soll gesteinigt werden, dass er Gefallenes ist, und Gefallenes darf doch nicht gegessen werden? Nur, was lehrt uns, sein Fleisch darf nicht gegessen werden? Selbst wenn er ihn geschächtet hätte, nachdem sein Urteil gefällt war, darf er nicht gegessen werden; woher weiß ich, dass auch seine Nutzniessung verboten ist? Darum steht, und der Besitzer des Ochsen geht leer aus, wie wenn einer zum anderen sagt, der und der ist von seinem Vermögen leer ausgegangen und hat keine Nutzniessung mehr davon; das ist der Midrasch (Mech.); der einfache Sinn ist wie die wörtliche Übersetzung; weil beim stössigen Ochsen steht (V. 29), und auch sein Besitzer ist todesschuldig, muss er beim zahmen sagen, und der Besitzer des Ochsen geht frei aus. 
 
+—4— **Und sein Fleisch darf nicht gegessen werden,** weiß ich denn nicht aus dem Sinn der Worte *der Ochs soll gesteinigt werden*, dass er Gefallenes *newela* ist, und Gefallenes *newela* darf doch nicht gegessen werden? Nur, was lehrt uns *sein Fleisch darf nicht gegessen werden*? Selbst wenn er ihn geschächtet hätte, nachdem sein Urteil gefällt war, darf er nicht gegessen werden; woher weiß ich, dass auch seine Nutzniessung verboten ist? Darum steht *und der Besitzer des Ochsen geht leer* <font color=#d633ff>🟌</font>נָקִי *aus*, wie wenn einer zum anderen sagt "der und der ist von seinem Vermögen leer  (<font color=#d633ff>🟌</font>יָצָא <font color=#d633ff>🟌</font>נָקִי) ausgegangen und hat keine Nutzniessung mehr davon"; das ist der Midrasch (🟌</font>וּבַעַל <font color=#d633ff>🟌</font>הַשּׁוֹר <font color=#d633ff>🟌</font>נָקִי) (Mech.); der einfache Sinn ist wie die wörtliche Übersetzung; weil beim stössigen Ochsen (<font color=#d633ff>🟌</font>מוּעָד) steht «und auch sein Besitzer ist todesschuldig» (V. 29), muss er beim zahmen sagen «und der Besitzer des Ochsen geht frei aus». 
+
 ---
 
 ////—1—//// 21:29:1,**Yesterday and the day before —** making it a total of three gorings.
@@ -189,6 +235,8 @@
 §§—2—§§ 21:29:1, <font color=#d633ff>🟌</font>מתמל <font color=#d633ff>🟌</font>שלשם [BUT IF THE OX HAS BEEN WONT TO THRUST] YESTERDAY AND BEFORE YESTERDAY — Here you have including the present occasion the three times an ox must gore before it can be declared a <font color=#d633ff>🟌</font>מועד (Bava Kamma 23b).‎
 
 —3— **29. Seit gestern und ehegestern,** das sind drei Stösse (Mech.). 
+
+—4— **29. Seit gestern und ehegestern,** das sind drei Stösse (Bava Kamma 23b; Mech.). 
 
 ---
 
@@ -198,6 +246,8 @@
 
 —3— **Und sein Besitzer wurde gewarnt,** bedeutet Verwarnung durch Zeugen; wie (Gen. 43, 3), der Mann hat uns verwarnt (Bab. kam. 23b). 
 
+—4— **Und sein Besitzer wurde gewarnt,** <font color=#d633ff>🟌</font>וְהוּעַד bedeutet Verwarnung durch Zeugen (Bab. kam. 23b); wie «der Mann hat uns verwarnt (<font color=#d633ff>🟌</font>הָעֵד <font color=#d633ff>🟌</font>הֵעִד)» (Gen. 43, 3).
+
 ---
 
 ////—1—//// 21:29:3,"**And it kills a man, etc.** Since it has been stated [in the previous verse]: “If [an ox] will gore” I could only know [that this law applies] when it killed him through goring. Were it to kill him with biting, shoving, and kicking, how would I then know it? Therefore the Torah states: [the extra] <font color=#d633ff>🟌</font>וְהֵמִית . "
@@ -205,6 +255,8 @@
 §§—2—§§ 21:29:3," <font color=#d633ff>🟌</font>והמית <font color=#d633ff>🟌</font>איש <font color=#d633ff>🟌</font>וגו׳ BUT HE HATH PUT TO DEATH A MAN [OR WOMAN] — Since it states, (v. 28) “If an ox gore (<font color=#d633ff>🟌</font>יגח) [a man or a woman, that he die]” I might say that I have only the law dealing with the case that it kills by pushing him with the horn (the root <font color=#d633ff>🟌</font>נגח being mainly used of thrusting with the horn, cf. e .g., Deuteronomy 33:17) but whence can the law be derived that it applies also to the case where it kills by biting, thrusting, or kicking? Scripture therefore states “he hath put to death [a man or a woman]” thus intimating that so long as death is caused by the animal it is liable to stoning."
 
 —3— **Und er tötet einen Mann;** weil steht, wenn stösst, wüsste ich nur, wenn er ihn durch einen Stoss getötet hat; hat er ihn aber durch Beissen, Drücken, Treten getötet, woher weiß ich es? Darum steht hier nur, und er tötet (Mech. 10). 
+
+—4— **Und er tötet einen Mann;** weil steht: «wenn stösst» (V. 28), wüsste ich nur, wenn er ihn durch einen Stoss getötet hat. Hat er ihn aber durch Beissen, Drücken, Treten getötet, woher weiß ich es? Darum steht hier nur, und er tötet <font color=#d633ff>🟌</font>וְהֵמִית (Mech. 10). 
 
 ---
 
@@ -214,6 +266,8 @@
 
 —3— **Und auch sein Besitzer ist todesschuldig,** vor dem himmlischen Gericht, ich hätte meinen können, auch durch Menschen, darum steht (Num. 35, 16), getötet werde, der geschlagen hat, er ist ein Mörder; wenn er **selbst** gemordet hat, töte ihn, aber töte ihn nicht für den Mord seines Ochsen (Mech.; Sanhedrin 15b). 
 
+—4— **Und auch sein Besitzer ist todesschuldig,** vor dem himmlischen Gericht, ich hätte meinen können, auch durch Menschen, darum steht: «getötet werde, der geschlagen hat, er ist ein Mörder» (Num. 35, 16). Wenn er **selbst** gemordet hat, töte ihn, aber töte ihn nicht für den Mord seines Ochsen (Mekhilta d'Rabbi Yishmael 21:29:8; Sanhedrin 15b). 
+
 ---
 
 ////—1—//// 21:30:1,"**When an atonement — fine shall be imposed on him.** The word <font color=#d633ff>🟌</font>אִם here is not conditional but, rather, is the same as in “(<font color=#d633ff>🟌</font>אִם) when you shall lend money,” [where the word <font color=#d633ff>🟌</font>אִם] has the meaning “when.” Thus this is the law [regarding the owner who is liable to death by Divine decree]: that the court impose indemmity on him. "
@@ -221,6 +275,8 @@
 §§—2—§§ 21:30:1," <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>כפר <font color=#d633ff>🟌</font>יושת <font color=#d633ff>🟌</font>עליו WHEN THERE BE SET ON HIM A RANSOM — This <font color=#d633ff>🟌</font>אם is not conditional (i. e. it does not mean “if” the heirs feel inclined to set on him a ransom) but it has the same meaning as in (Exodus 22:24) “When (<font color=#d633ff>🟌</font>אם) thou lendest money” where it has the meaning of <font color=#d633ff>🟌</font>אשר, “when” (for it is a duty to lend money to the poor and it is not optional). It is the law regarding him that the court should set on him a ransom."
 
 —3— **30. Wenn ein Sühnegeld ihm auferlegt wird,** dieses <font color=#d633ff>🟌</font>אם ist keine Bedingung, sondern es ist wie (22, 24), wenn du Geld leihst, mit der Bedeutung von <font color=#d633ff>🟌</font>אשר sobald; so ist das Recht für ihn, dass ihm das Gericht ein Sühnegeld auferlege. 
+
+—4— **30. Wenn ein Sühnegeld ihm auferlegt wird,** dieses <font color=#d633ff>🟌אִם ist keine Bedingung, sondern es ist wie: «(<font color=#d633ff>🟌</font>אִם) wenn du Geld leihst» (Exodus 22, 24), mit der Bedeutung von <font color=#d633ff>🟌</font>אשר *sobald*; so ist das Recht für ihn, dass ihm das Gericht ein Sühnegeld auferlege. 
 
 ---
 
@@ -230,6 +286,8 @@
 
 —3— **Gebe er ein Lösegeld für seine Person,** den Wert des Geschädigten, sagt R. Jischmael; den Wert des Schädigers, sagt R. Akiba (Mech.). 
 
+—4— **Gebe er ein Lösegeld für seine Person,** den Wert des Geschädigten, sagt R. Jischmael; den Wert des Schädigers, sagt R. Akiba (Mekhilta d'Rabbi Yishmael 21:30). 
+
 ---
 
 ////—1—//// 21:31:1,**Whether it is a son that is gored.** [This refers to] a son who is a minor
@@ -237,6 +295,8 @@
 §§—2—§§ 21:31:1, <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>בן <font color=#d633ff>🟌</font>ינח WHETHER HE HAVE THRUST A SON — a son who is a minor;
 
 —3— **31. Wenn er einen Knaben stösst,** der noch ein Kind ist. 
+
+—4— **31. Wenn er einen Knaben stösst,** der noch ein Kind ist. 
 
 ---
 
@@ -246,6 +306,8 @@
 
 —3— **Oder ein Mädchen,** das noch ein Kind ist; weil steht, und er tötet einen Mann oder eine Frau, hätte ich meinen können, dass er nur auf große schuldig sei; darum heißt es, wenn er einen Knaben, um ihn auf Kinder wie auf große schuldig zu machen (Mech.). 
 
+—4— **Oder ein Mädchen,** das noch ein Kind ist; weil steht: «und er tötet einen Mann oder eine Frau» (V. 29), hätte ich meinen können, dass er nur auf große schuldig sei; darum heißt es *wenn er einen Knaben*, um ihn auf Kinder wie auf große schuldig zu machen (Mekhilta d'Rabbi Yishmael 21:31:1). 
+
 ---
 
 ////—1—//// 21:32:1,**If a male or female slave —** gentile [slaves].
@@ -253,6 +315,8 @@
 §§—2—§§ 21:32:1, <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>עבד <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>אמה IF [AN OX SHALL THRUST] A MANSERVANT OR A MAIDSERVANT — Canaanitish servants (Mekhilta d'Rabbi Yishmael 21:32:1).
 
 —3— **32. Wenn er einen Knecht oder eine Magd,** kenaanitische (Mech.). 
+
+—4— **32. Wenn er einen Knecht oder eine Magd,** kenaanitische (Mekhilta d'Rabbi Yishmael 21:32:1). 
 
 ---
 
@@ -262,6 +326,8 @@
 
 —3— **Gebe er 30 Schekel,** das ist eine Bestimmung der Schrift, ob er 1000 Sus wert ist, oder ob er nur einen Denar wert ist (Mech.); der Schekel wiegt 4 Gulden, das ist eine halbe Unze nach dem richtigen Gewicht von Köln. 
 
+—4— **Gebe er 30 Schekel,** das ist eine Bestimmung der Schrift, ob er 1000 *Sus* wert ist, oder ob er nur einen *Dinar* wert ist (Mech.); der *Schekel* wiegt 4 Gulden, das ist eine halbe Unze nach dem richtigen Gewicht von Köln. 
+
 ---
 
 ////—1—//// 21:33:1,**If a man uncovers a pit —** which was covered and he uncovered it.
@@ -269,6 +335,8 @@
 §§—2—§§ 21:33:1,"<font color=#d633ff>🟌</font>וכי <font color=#d633ff>🟌</font>יפתח <font color=#d633ff>🟌</font>איש <font color=#d633ff>🟌</font>בור AND IF A MAN SHALL OPEN A PIT which was covered over, and he now uncovered it."
 
 —3— **33. Wenn jemand eine Grube aufmacht,** die zugedeckt war, und er hat sie aufgedeckt, 
+
+—4— **33. Wenn jemand eine Grube aufmacht,** die zugedeckt war, und er hat sie aufgedeckt, 
 
 ---
 
@@ -278,6 +346,8 @@
 
 —3— **oder wenn jemand gräbt;** warum steht dies? Wenn er auf das Aufdecken schuldig ist, um so mehr auf das Graben? Nur, um hinzuzufügen, dass, wer weitergräbt, nachdem einer zuerst gegraben hat, auch schuldig ist (Bab. kam. 51a). 
 
+—4— **oder wenn jemand gräbt;** warum steht dies? Wenn er auf das Aufdecken schuldig ist, um so mehr auf das Graben? Nur, um hinzuzufügen, dass, wer weitergräbt, nachdem einer zuerst gegraben hat, auch schuldig ist (Bab. kam. 51a). 
+
 ---
 
 ////—1—//// 21:33:3,"**And does not cover it.** But if he covers it, he is not liable. The Torah speaks of digging in the public domain. "
@@ -285,6 +355,8 @@
 §§—2—§§ 21:33:3," <font color=#d633ff>🟌</font>ולא <font color=#d633ff>🟌</font>יכסנו AND SHALL NOT COVER IT — if, however, he did cover it, though he did not fill it in with earth” he is not liable (Bava Kamma 50a). Scripture speaks of one who excavates a pit in a public thoroughfare (cf. Bava Kamma 49b)."
 
 —3— **Und sie nicht zudeckt;** wenn er sie aber zudeckt, ist er frei; von einem, der auf der Straße gräbt, spricht der Vers (Bab. kam. 49b; Mech.). 
+
+—4— **Und sie nicht zudeckt;** wenn er sie aber zudeckt, ist er frei (Bava Kamma 50a); von einem, der auf der Straße gräbt, spricht der Vers (Bab. kam. 49b; Mech.). 
 
 ---
 
@@ -294,6 +366,8 @@
 
 —3— **Ein Ochs oder ein Esel,** ebenso irgendein anderes zahmes Tier oder Gewild; denn überall, wo Ochs oder Esel steht, lernen wir <font color=#d633ff>🟌</font>שור <font color=#d633ff>🟌</font>שור vom Sabbat heraus; dort heißt es (23,12), damit dein Ochs und dein Esel ruhe; so, wie dort jedes zahme Tier und Gewild dem Ochsen gleich ist, da an anderer Stelle steht (Deut. 5, 14), und all dein Vieh, so ist auch hier alles Vieh und Gewild dem Ochsen gleich; und Ochs und Esel steht nur darum, damit man folgere, ein Ochs und nicht ein Mensch, ein Esel und nicht Geräte (Bab. kam. 53b, 54b). 
 
+—4— **Ein Ochs oder ein Esel,** ebenso irgendein anderes zahmes Tier oder Gewild; denn überall, wo <font color=#d633ff>🟌</font>שׁוֹר <font color=#d633ff>🟌</font>וַחֲמוֹר Ochs oder Esel steht, lernen (<font color=#d633ff>🟌</font>גְּזֵירָה <font color=#d633ff>🟌</font>שָׁוָה) wir <font color=#d633ff>🟌</font>"שׁוֹר" <font color=#d633ff>🟌"שׁוֹר" vom Schabbat heraus; dort heißt es: «damit dein Ochs und dein Esel ruhe» (Exodus 23,12); so, wie dort jedes zahme Tier und Gewild dem "Ochsen" gleich ist, da an anderer Stelle steht: «und all dein Vieh» (Deut. 5, 14), so ist auch hier alles Vieh und Gewild dem "Ochsen" gleich; und  <font color=#d633ff>🟌</font>שׁוֹר <font color=#d633ff>🟌</font>וַחֲמוֹר Ochs und Esel steht *nur* darum, damit man folgere, "ein Ochs" und nicht ein Mensch, "ein Esel" und nicht Geräte (Bab. kam. 53b, 54b). 
+
 ---
 
 ////—1—//// 21:34:1,"**The owner of the pit.** [This means:] the one who instigated the damage. Even though the pit does not belong to him, i.e., where he made it in the public domain, [nevertheless] the Torah considers him the owner for the purpose of making him liable for damages. "
@@ -301,6 +375,8 @@
 §§—2—§§ 21:34:1," <font color=#d633ff>🟌</font>בעל <font color=#d633ff>🟌</font>הבור THE OWNER OF THE PIT [SHALL PAY FOR IT] — This means the one who occasioned the damage. Although the pit was not his, — for he dug it in the public thoroughfare, — Scripture regards him as its “owner” (<font color=#d633ff>🟌</font>בעל <font color=#d633ff>🟌</font>הבור) in so far that he becomes responsible for the damage caused by it."
 
 —3— **34. Der Besitzer der Grube,** der Veranlasser des Schadens; obschon ihm die Grube nicht gehört, da er sie auf der Straße gemacht hat, macht ihn der Vers zu ihrem Besitzer, dass er für die Schäden haftbar ist (Pessachim 6b). 
+
+—4— **34. Der Besitzer der Grube,** der Veranlasser des Schadens; obschon ihm die Grube nicht gehört, da er sie auf der Straße gemacht hat, macht ihn der Vers zu ihrem Besitzer (<font color=#d633ff>🟌</font>בעל <font color=#d633ff>🟌</font>הבור), dass er für die Schäden haftbar ist (Pessachim 6b). 
 
 ---
 
@@ -310,6 +386,8 @@
 
 —3— **Geld ersetze er dem Besitzer, <font color=#d633ff>🟌</font>ישיב** fügt Geldeswert, sogar Kleie, als Zahlungsmittel hinzu (Bab. kam. 7a). 
 
+—4— **Geld ersetze er dem Besitzer, **<font color=#d633ff>🟌</font>יָשִׁיב fügt Geldeswert, sogar "Kleie", als Zahlungsmittel hinzu (Bab. kam. 7a). 
+
 ---
 
 ////—1—//// 21:34:3,"**And the dead [animal] remains his.** I.e., the injured party’s. We evaluate the carcass and he (the injured party) takes it as [partial] payment. Then the one who caused the damage pays him the remainder, so as to make up for his loss. "
@@ -317,6 +395,8 @@
 §§—2—§§ 21:34:3," <font color=#d633ff>🟌</font>והמת <font color=#d633ff>🟌</font>יהיה <font color=#d633ff>🟌</font>לו AND THE DEAD BEAST SHALL BELONG TO HIM — to him who has suffered the loss. We assess the value of the carcass and he (the claimant) takes it at this value in part payment, and the man who caused the damage pays him in addition to this as much as will make up the whole loss he has suffered (Bava Kamma 10b)."
 
 —3— **Und das Tote gehöre ihm,** dem Geschädigten, man schätzt das gefallene Tier ab, und er muss es in Zahlung nehmen, und der Schädiger zahlt bis zum vollen Schadenersatz hinzu (Mech.). 
+
+—4x— **Und das Tote gehöre ihm,** dem Geschädigten, man schätzt das gefallene Tier ab, und er muss es in Zahlung nehmen, und der Schädiger zahlt bis zum vollen Schadenersatz hinzu (Bava Kamma 10b; Mech.). 
 
 ---
 
@@ -326,6 +406,8 @@
 
 —3— **35. Wenn stösst,** stösst (Mech.), sei es mit den Hörnern, sei es mit dem Körper, sei es mit dem Fuß, alles ist in <font color=#d633ff>🟌</font>נגיפה enthalten; denn <font color=#d633ff>🟌</font>נגיפה bedeutet nur Schlag. 
 
+—4— **35. Wenn stösst,** <font color=#d633ff>🟌</font>יִגּוֹף stösst, sei es mit den Hörnern, sei es mit dem Körper, sei es mit dem Fuß, alles ist in <font color=#d633ff>🟌</font>נְגִיפָה enthalten; denn <font color=#d633ff>🟌</font>נְגִיפָה bedeutet nur *Schlag* (<font color=#d633ff>🟌</font>מכה) (Mekhilta d'Rabbi Yishmael 21:35:1).
+
 ---
 
 ////—1—//// 21:35:2,**A man’s ox.** [<font color=#d633ff>🟌</font>שוֹר <font color=#d633ff>🟌</font>אִישׁ here means:] the ox of a man.
@@ -333,6 +415,8 @@
 §§—2—§§ 21:35:2, <font color=#d633ff>🟌</font>שור <font color=#d633ff>🟌</font>איש means <font color=#d633ff>🟌</font>שור <font color=#d633ff>🟌</font>של <font color=#d633ff>🟌</font>איש THE OX OF A MAN (i. e. <font color=#d633ff>🟌</font>שור is in construct state to the word <font color=#d633ff>🟌</font>איש).‎
 
 —3— **Der Ochs eines Mannes** = <font color=#d633ff>🟌</font>של <font color=#d633ff>🟌</font>איש.
+
+—4— **Der Ochs eines Mannes** = <font color=#d633ff>🟌</font>של <font color=#d633ff>🟌אִישׁ.
 
 ---
 
@@ -342,6 +426,8 @@
 
 —3— **So sollen sie den Ochs verkaufen,** von zwei gleichen spricht der Vers (Bab. k. 34a), ein Ochs, der 200 wert ist, hat einen Ochsen, der 200 wert ist, getötet; ob nun das gefallene Tier viel oder wenig wert ist, sobald der eine die Hälfte des lebenden und die Hälfte des toten, und ebenso der andere die Hälfte des lebenden und die Hälfte des toten nimmt, findet sich, dass jeder die Hälfte des Schadens trägt, den der Tod verursacht hat. Daraus lernen wir, dass er beim zahmen Ochsen die Hälfte des Schadens bezahlt; denn von den gleichen kannst du für nicht gleiche entnehmen, dass für den zahmen die Vorschrift gilt, den halben Schaden zu zahlen, nicht weniger und nicht mehr. Oder ich hätte meinen können, auch wenn sie, als sie beide lebten, an Wert nicht gleich waren, sage der Vers, sie sollen beide teilen? Wenn du so sagen würdest, so würde zuweilen der Schädiger noch viel gewinnen; wenn nämlich das gefallene Tier, um an Nichtjuden verkauft zu werden, viel mehr wert wäre, als der Wert des Ochsen des Schädigers beträgt; es ist aber nicht möglich, dass der Vers sagt, der Schädiger soll noch Gewinn davon haben; oder zuweilen würde der Geschädigte viel mehr als den Betrag des ganzen Schadens erhalten; wenn nämlich der halbe Wert des Ochsen des Schädigers mehr betragen würde als der ganze Wert des Ochsen des Geschädigten; wenn du aber so sagen würdest, so wäre die Vorschrift für den zahmen strenger als die für den stössigen; notwendigerweise spricht also der Vers nur von gleichen und lehrt dich, dass der zahme den halben Schaden bezahlt; und von den gleichen kannst du für nicht gleiche entnehmen; demjenigen, dem der halbe Schaden ersetzt wird, schätzt man das gefallene Tier ab, und von dem, was es durch den Tod an Wert verloren hat, erhält er die Hälfte für seinen Schaden und muss damit zufrieden sein. Warum wendet aber der Vers diesen Ausdruck an und sagt nicht, er zahle die Hälfte? Um zu lehren, dass für den zahmen nur mit ihm selbst bezahlt wird; hätte er gestoßen und wäre gestorben, so erhält der Geschädigte nur das gefallene Tier; und wenn dies den halben Schaden nicht erreicht, so verliert er den Rest; oder wenn ein Ochs, der nur eine Mine wert ist, einen Ochsen, der 500 Sus (5 Minen) wert war, gestoßen hat, erhält er nur den Ochsen; denn der zahme ist nicht so weit schuldig, dass er seinen Besitzer belastet, mit seinem übrigen Vermögen zu bezahlen (Bab. kam. 33a). 
 
+—4— **So sollen sie den Ochs verkaufen,** von zwei gleichen spricht der Vers (Bab. k. 34a), ein Ochs, der 200 *Sus* wert ist, hat einen Ochsen, der 200 *Sus* wert ist, getötet; ob nun das gefallene Tier viel oder wenig wert ist, sobald der eine (<font color=#d633ff>🟌</font>מַזִּיק) die Hälfte des lebenden und die Hälfte des toten, und ebenso der andere  (<font color=#d633ff>🟌</font>נִיזָּק) die Hälfte des lebenden und die Hälfte des toten nimmt, findet sich, dass jeder die Hälfte des Schadens trägt, den der Tod verursacht hat. Daraus lernen wir, dass er beim (<font color=#d633ff>🟌</font>תַּם) zahmen Ochsen die Hälfte des Schadens bezahlt; denn von den gleichen kannst du für nicht gleiche entnehmen, dass für den (<font color=#d633ff>🟌</font>תַּם) zahmen die Vorschrift gilt, den halben Schaden zu zahlen, nicht weniger und nicht mehr. Oder ich hätte meinen können, auch wenn sie, als sie beide lebten, an Wert nicht gleich waren, sage der Vers, sie sollen beide teilen? Wenn du so sagen würdest, so würde zuweilen der Schädiger noch viel gewinnen; wenn nämlich das gefallene Tier, um an Nichtjuden verkauft zu werden, viel mehr wert wäre, als der Wert des Ochsen des Schädigers beträgt; es ist aber nicht möglich, dass der Vers sagt, der Schädiger soll noch Gewinn davon haben; oder zuweilen würde der Geschädigte viel mehr als den Betrag des ganzen Schadens erhalten; wenn nämlich der halbe Wert des Ochsen des Schädigers mehr betragen würde als der ganze Wert des Ochsen des Geschädigten; wenn du aber so sagen würdest, so wäre die Vorschrift für den zahmen (<font color=#d633ff>🟌</font>תַּם) strenger als die für den stössigen (<font color=#d633ff>🟌</font>מוּעָד); notwendigerweise spricht also der Vers nur von gleichen und lehrt dich, dass der zahme (<font color=#d633ff>🟌</font>תַּם) den halben Schaden bezahlt; und von den gleichen kannst du für nicht gleiche entnehmen; demjenigen, dem der halbe Schaden ersetzt wird, schätzt man das gefallene Tier ab, und von dem, was es durch den Tod an Wert verloren hat, erhält er die Hälfte für seinen Schaden und muss damit zufrieden sein. Warum wendet aber der Vers diesen Ausdruck an und sagt nicht *er zahle die Hälfte*? Um zu lehren, dass für den zahmen (<font color=#d633ff>🟌</font>תַּם) nur mit ihm selbst bezahlt wird; hätte er (der Zahme) gestoßen und wäre gestorben, so erhält der Geschädigte nur das gefallene Tier; und wenn dies den halben Schaden nicht erreicht, so verliert er den Rest; oder wenn ein Ochs, der nur eine *Manne* wert ist, einen Ochsen, der 500 *Sus* (5 *Mannen*) wert war, gestoßen hat, erhält er nur den Ochsen; denn der zahme (<font color=#d633ff>🟌</font>תַּם) ist nicht so weit schuldig, dass er seinen Besitzer belastet, mit seinem übrigen Vermögen zu bezahlen (Bab. kam. 33a). 
+
 ---
 
 ////—1—//// 21:36:1,"**If it was known.** [Meaning:] or it was not a <font color=#d633ff>🟌</font>תַּם but rather it was known that it is a goring ox, [having gored] today, yesterday, and the day before, thereby establishing three gorings. "
@@ -349,6 +435,8 @@
 §§—2—§§ 21:36:1," <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>נודע means, OR it was not a <font color=#d633ff>🟌</font>תם but IT IS KNOWN THAT THE OX WAS WONT TO THRUST to-day yesterday and the day before yesterday — thus you have the three acts of goring required to make it a <font color=#d633ff>🟌</font>שלם <font color=#d633ff>🟌</font>ישלם <font color=#d633ff>🟌</font>שור (Bava Kamma 23b)"
 
 —3— **36. Wenn aber bekannt ist;** oder er war nicht zahm, sondern es war bekannt, dass er ein stössiger Ochse war, heute, gestern und ehegestern, das sind drei Stösse. 
+
+—4— **36. Wenn aber bekannt ist;** oder er war nicht <font color=#d633ff>🟌</font>תַּם zahm, sondern es war bekannt, dass er ein stössiger Ochse war, heute, gestern und ehegestern, das sind drei Stösse (Bava Kamma 23b). 
 
 ---
 
@@ -358,6 +446,8 @@
 
 —3— **Muss er einen Ochsen bezahlen,** den ganzen Schaden. 
 
+—4— **Muss er einen Ochsen bezahlen,** den ganzen Schaden. 
+
 ---
 
 ////—1—//// 21:36:3,"**The dead animal shall be his.** [I.e., shall belong] to the damaged party, and the one causing the damage shall add to it until the damaged party will have been compensated for his full damages. "
@@ -365,6 +455,8 @@
 §§—2—§§ 21:36:3, <font color=#d633ff>🟌</font>והמת <font color=#d633ff>🟌</font>יהיה <font color=#d633ff>🟌</font>לו AND THE DEAD SHALL BELONG TO HIM — to the claimant (Bava Kamma 23b) as part of this full payment. In addition to it the defendant has to complete the amount until the claimant has been paid for his entire loss.
 
 —3— **Und der tote gehört ihm,** dem Geschädigten (Mech.), und dazu ergänze der Schädiger, bis dem Geschädigten der ganze Schaden ersetzt ist. 
+
+—4— **Und der tote gehört ihm,** dem Geschädigten (Bava Kamma 23b; Mech.), und dazu ergänze der Schädiger, bis dem Geschädigten der ganze Schaden ersetzt ist. 
 
 ---
 
@@ -374,6 +466,8 @@
 
 —3— **37. Fünf Rinder;** (Mech.) R. Jochanan b. Sakai sagt, der Ewige schont die Ehre der Geschöpfe; ein Ochs geht selbst, und der Dieb hat sich nicht erniedrigt, ihn auf seiner Schulter zu tragen, darum zahle er fünf; für ein Lamm aber, das er auf der Schulter trug, zahle er nur vier, weil er sich damit erniedrigt hat. R. Meir sagt, komm und sieh, wie groß die Bedeutung der Arbeit; bei einem Ochsen, wo er den Besitzer in der Arbeit stört, fünf, bei einem Lamm, wo er ihn nicht in der Arbeit stört, vier. 
 
+—4— **37. Fünf Rinder;** (Mech.) R. Jochanan b. Sakai sagt, der Ewige schont die Ehre der Geschöpfe; ein Ochs geht selbst, und der Dieb hat sich nicht erniedrigt, ihn auf seiner Schulter zu tragen, darum zahle er fünf; für ein Lamm aber, das er auf der Schulter trug, zahle er nur vier, weil er sich damit erniedrigt hat. R. Meir sagt, komm und sieh, wie groß die Bedeutung der Arbeit; bei einem Ochsen, wo er den Besitzer in der Arbeit stört, fünf, bei einem Lamm, wo er ihn nicht in der Arbeit stört, vier. (Bava Kamma 79b)
+
 ---
 
 ////—1—//// 21:37:2,"**For each ox ... for each sheep.** The Torah repeats them, (i.e., <font color=#d633ff>🟌</font>שׁוֹר and <font color=#d633ff>🟌</font>שֶׂה) to indicate that the payments of four or five fold apply only to an ox or a sheep. "
@@ -382,11 +476,15 @@
 
 —3— **Für den Ochsen, für das Lamm,** der Vers wiederholt sie, um zu sagen, dass die Bestimmung, vier oder fünf zu zahlen, nur beim Ochsen und Lamm allein angeht (Bawa Metzia 67b). 
 
+—4— **Für den Ochsen, für das Lamm,** der Vers wiederholt sie ( <font color=#d633ff>🟌</font>שׁוֹר und <font color=#d633ff>🟌</font>שֶׂה), um zu sagen, dass die Bestimmung, vier oder fünf zu zahlen, nur beim Ochsen und Lamm allein angeht ([Bawa Komma 67b](https://www.sefaria.org/Exodus.21.37?lang=bi&with=Rashi&lang2=en&p3=Bava_Kamma.79b.2&lang3=bi&w3=all&lang4=en)). 
+
 ---
 
 ////—1—//// 22:1:1,**If while breaking in.** If he was actually in the act of breaking in.
 
 §§—2—§§ 22:1:1," <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>במחתרת means when he was breaking in into the house (i. e. in the very act of forcing an entry, but at no other moment)."
+
+—3— **22, 1. Wenn beim Einbruch,** während er ins Haus einbricht (Sanhedrin 72a). 
 
 —3— **22, 1. Wenn beim Einbruch,** während er ins Haus einbricht (Sanhedrin 72a). 
 
@@ -398,6 +496,8 @@
 
 —3— **Hat er keine Blutschuld,** ist dies kein Mord; denn er ist so, als wäre er schon vorher tot gewesen; hier lehrt dich die Torah, wenn einer sich anschickt, dich zu töten, so komme ihm zuvor und töte ihn; denn dieser kommt, dich zu töten, da er weiß, dass ein Mensch nicht ruhig stehenbleibt und zusieht, wie man sein Vermögen wegnimmt, und schweigt; darum ist er mit der Absicht gekommen, sollte sich der Besitzer des Vermögens ihm entgegenstellen, ihn zu töten (dort). 
 
+—4— **Hat er keine Blutschuld,** ist dies kein Mord; denn er ist so, als wäre er schon vorher tot gewesen; hier lehrt dich die Torah "wenn einer sich vorbereitet, dich zu töten, so komme ihm zuvor und töte ihn"; denn dieser kommt, dich zu töten, da er weiß, dass ein Mensch nicht ruhig stehenbleibt und zusieht, wie man sein Vermögen wegnimmt, und schweigt; darum ist er mit der Absicht gekommen, sollte sich der Besitzer des Vermögens ihm entgegenstellen, ihn zu töten (dort). 
+
 ---
 
 ////—1—//// 22:2:1,"**If the sun shone on him.** This is nothing but an allegory: If the issue is clear to you that his intentions towards you are peaceful — just as this sun represents peace in the world so, too, if it is obvious to you that he has not come with the intention of killing, even should the owner of the property resist, for example: a father who breaks in to steal the property of the son, where it is known that a father has pity for his child and has not come with any intentions of taking a life — "
@@ -405,6 +505,8 @@
 §§—2—§§ 22:2:1," <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>זרחה <font color=#d633ff>🟌</font>השמש <font color=#d633ff>🟌</font>עליו IF THE SUN SHONE UPON HIM — This is only a metaphorical expression signifying: if the fact is clear to you that he is peaceably disposed towards you. The simile is: just as the sun brings peace (happiness) to the world so if it is evident to you that he did not come with the intention of killing, even if the owner of the property would resist him (Sanhedrin 72a), as, for instance, when a father breaks in to steal the money of his son, for it is certain that the father cherishes feelings of pity for his child and the matter of taking human life is not in his thoughts at all, — then"
 
 —3— **2. Wenn aber die Sonne über ihm aufgegangen,** das ist nur ein Gleichnis; wenn dir die Sache so klar ist, dass er dir friedlich gesinnt ist, wie die Sonne der Welt Frieden bringt; so sicher ist dir, dass er nicht töten will, auch wenn sich der Besitzer des Vermögens ihm entgegenstellen sollte; wenn z. B. der Vater einbricht, um das Vermögen des Sohnes zu stehlen, dann ist sicher, dass sich der Vater über den Sohn erbarmen würde und nicht an eine Bedrohung des Lebens denkt (Mech.). 
+
+—4— **2. Wenn aber die Sonne über ihm aufgegangen,** das ist nur ein Gleichnis; wenn dir die Sache so klar ist, dass er dir friedlich gesinnt ist, wie die Sonne der Welt Frieden bringt; so sicher ist dir, dass er nicht töten will, auch wenn sich der Besitzer des Vermögens ihm entgegenstellen sollte (Sanhedrin 72a); wenn z. B. der Vater einbricht, um das Vermögen des Sohnes zu stehlen, dann ist sicher, dass sich der Vater über den Sohn erbarmen würde und nicht an eine Bedrohung des Lebens denkt (Mech.). 
 
 ---
 
@@ -414,6 +516,8 @@
 
 —3— **Hat er Blutschuld,** er ist wie ein Lebender angesehen (er hat Blut), und es ist ein Mord, wenn ihn der Besitzer des Hauses tötet. 
 
+—3— **Hat er Blutschuld,** er ist wie ein Lebender angesehen (er hat Blut <font color=#d633ff>🟌</font>דמים <font color=#d633ff>🟌</font>לו), und es ist ein Mord, wenn ihn der Besitzer des Hauses tötet. 
+
 ---
 
 ////—1—//// 22:2:3,"**He must make full restitution.** The <font color=d50505>»</font>thief<font color=d50505>«</font> [shall pay back] the money that he stole, but he is not liable to the death penalty. Onkelos, who translates (<font color=#d633ff>🟌</font>אִם <font color=#d633ff>🟌</font>זָרְחָה <font color=#d633ff>🟌</font>הַשֶׁמֶשׁ <font color=#d633ff>🟌</font>עָלָיו): “If witnesses saw him [break in],” chose for himself an alternate explanation: it tells us that if witnesses discovered him before the owner of the house arrived and when the owner of the house comes to attack him they warned him (the owner) not to kill him then he is responsible for his blood — [i.e.] he will be liable [to the death penalty] if he will kill him. For since there are people watching him, then this thief has not come with the intention of taking anyone’s life and will not kill the property owner. "
@@ -421,6 +525,8 @@
 §§—2—§§ 22:2:3," <font color=#d633ff>🟌</font>שלם <font color=#d633ff>🟌</font>ישלם means the thief shall only restore the money he has stolen but is not subject to the death penalty. Onkelos who renders <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>זרחה <font color=#d633ff>🟌</font>השמש <font color=#d633ff>🟌</font>עליו by, “If the eye of witnesses fall upon him” chose a different way of explaining the verse, namely, that if witnesses surprise him before the householder appears, and when the householder is going towards him they warn him not to kill him (the thief), then <font color=#d633ff>🟌</font>דמים <font color=#d633ff>🟌</font>לו, he is punishable if he kills him; for since there are people watching him the thief surely has no thought of taking human life and will not kill the owner of the property."
 
 —3— **Er soll bezahlen,** der Dieb das Vermögen, das er gestohlen hat, und ist nicht todesschuldig; Onkelos, der übersetzt, wenn das Auge des Zeugen darauf gefallen ist, hat sich eine andere Deutung gewählt und sagt, dass, wenn ihn Zeugen angetroffen hatten, bevor der Besitzer des Hauses kam, und wie der Besitzer des Hauses gegen ihn kam, warnten sie diesen, er solle ihn nicht töten, dieser Blutschuld hat, durch ihn schuldig wird, wenn er ihn tötet; denn, nachdem Zuschauer dabei sind, hat der Dieb nicht mehr die Absicht, das Leben zu bedrohen, und würde den Besitzer des Vermögens nicht töten. 
+
+—4— **Er soll bezahlen,** der *Dieb* das Vermögen, das er gestohlen hat, und ist nicht todesschuldig; Onkelos, der übersetzt: «(<font color=#d633ff>🟌</font>אִם <font color=#d633ff>🟌</font>זָרְחָה <font color=#d633ff>🟌</font>הַשֶׁמֶשׁ <font color=#d633ff>🟌</font>עָלָיו) wenn das Auge des Zeugen darauf gefallen ist», hat sich eine andere Deutung gewählt und sagt, dass, wenn ihn Zeugen angetroffen hatten, bevor der Besitzer des Hauses kam, und wie der Besitzer des Hauses gegen ihn kam, warnten sie diesen, er solle ihn nicht töten, dieser Blutschuld (<font color=#d633ff>🟌</font>דמים <font color=#d633ff>🟌</font>לו) hat, durch ihn schuldig wird, wenn er ihn tötet; denn, nachdem Zuschauer dabei sind, hat der Dieb nicht mehr die Absicht, das Leben zu bedrohen, und würde den Besitzer des Vermögens nicht töten. 
 
 ---
 
@@ -430,6 +536,8 @@
 
 —3— **3. Wenn gefunden wird,** in seinem Besitze, wenn er es nicht geschlachtet und nicht verkauft hat (Mech.). 
 
+—4— **3. Wenn gefunden wird,** in seinem Besitze, wenn er es nicht geschlachtet und nicht verkauft hat (Mech.). 
+
 ---
 
 ////—1—//// 22:3:2,"**Whether it is an ox or donkey.** Any item [that is stolen] is included in the liability to pay twofold restitution, whether it is an animate object or whether it is an inanimate object, for elsewhere it is stated: “for a sheep, a garment, or any lost object, etc. he must pay two-fold to his fellow man.” "
@@ -438,6 +546,8 @@
 
 —3— **Sei es Ochs oder Esel,** alles gehört zur Bestimmung des zweifachen Ersatzes, ob es Leben hat oder ob es kein Leben hat, da in einem anderes Vers steht (V. 8), wegen eines Lammes, wegen eines Gewandes, wegen jedes verlorenen Gegenstandes zahle er das Doppelte seinem Nächsten (Bab. kam. 62b). 
 
+—4— **Sei es Ochs oder Esel,** alles gehört zur Bestimmung des zweifachen Ersatzes, ob es Leben hat oder ob es kein Leben hat, da in einem anderes Vers steht: «wegen eines Lammes, wegen eines Gewandes, wegen jedes verlorenen Gegenstandes zahle er das Doppelte  seinem Nächsten»  (V. 8).  (Bab. kam. 62b). 
+
 ---
 
 ////—1—//// 22:3:3,"**He must pay two live animals.** He may not pay him with dead ones, but only with live ones or with money that is equivalent to live ones. "
@@ -445,5 +555,7 @@
 §§—2—§§ 22:3:3,"<font color=#d633ff>🟌</font>חיים <font color=#d633ff>🟌</font>שנים <font color=#d633ff>🟌</font>ישלם means, two living animals (<font color=#d633ff>🟌</font>חיים <font color=#d633ff>🟌</font>שנים) shall he pay and he shall not give dead animals in payment (Mekhilta d'Rabbi Yishmael 22:3:4) — but either living animals or the value of living animals."
 
 —3— **Lebend, zahle er das Zweifache,** und zahle nicht tote, sondern lebende oder den Wert von lebenden (Mech.). 
+
+—3— **Lebend, zahle er das Zweifache,** und zahle nicht tote, sondern lebende oder den Wert von lebenden (Mekhilta d'Rabbi Yishmael 22:3:4). 
 
 ---
