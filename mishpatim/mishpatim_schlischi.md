@@ -4,6 +4,8 @@
 
 —3— **4. Wenn einer abweiden lässt,<font color=#d633ff>🟌</font>ובער,<font color=#d633ff>🟌</font>בעירו,<font color=#d633ff>🟌</font>יבער**, kommen alle von der Wurzel <font color=#d633ff>🟌</font>בעיר Vieh; wie (Num. 20,4), wir und unser Vieh. 
 
+—4— **4. Wenn einer abweiden lässt,<font color=#d633ff>🟌</font>כִּי <font color=#d633ff>🟌</font>יַבְעֶר, <font color=#d633ff>🟌</font>אֶת־<font color=#d633ff>🟌</font>בְּעִירֹה, <font color=#d633ff>🟌</font>וּבִעֵר**, kommen alle von der Wurzel <font color=#d633ff>🟌</font>בעיר Vieh; wie «wir und unser Vieh (<font color=#d633ff>🟌</font>וּבְעִירֵנוּ)» (Num. 20,4). 
+
 ---
 
 ////—1—//// 22:4:2,"** <font color=#d633ff>🟌</font>כִּי <font color=#d633ff>🟌</font>יַבְעֶר .** [<font color=#d633ff>🟌</font>כִּי <font color=#d633ff>🟌</font>יַבְעֶר means:] he leads his cattle into the field or vineyard of his fellow man and causes him damage in one of the two following ways: either by sending in his cattle [to trample on things] or [by allowing them] to feed there. [Accordingly] our Sages explained that <font color=#d633ff>🟌</font>וְשִׁלַּח is damage caused by trampling with the foot, whereas <font color=#d633ff>🟌</font>וּבִעֵר is damage caused by the “tooth” which eats and consumes. "
@@ -11,6 +13,8 @@
 §§—2—§§ 22:4:2,"<font color=#d633ff>🟌</font>כי <font color=#d633ff>🟌</font>יבער  means accordingly, he takes his cattle into the field or the vineyard of his fellow-man and causes damage to him by one of these two ways: either by the mere fact that he lets his cattle go (tread) there (<font color=#d633ff>🟌</font>ושלח <font color=#d633ff>🟌</font>את <font color=#d633ff>🟌</font>בעירו), or by letting it graze there (<font color=#d633ff>🟌</font>ובער). Our Rabbis explained (Bava Kamma 2b), that <font color=#d633ff>🟌</font>ושלח refers to the damage done by “treading” (Rashi uses a Biblical phrase Deuteronomy 5:1. “treading of the hollow of the foot”) and <font color=#d633ff>🟌</font>ובער to the damage caused by the tooth that eats up and removes (<font color=#d633ff>🟌</font>מבערת) the crops (grazing)."
 
 —3— **Wenn einer abweiden lässt,** er führt sein Vieh auf ein Feld oder in den Weinberg seines Nächsten und schadet ihm durch eins von folgenden beiden, entweder durch das Hinschicken des Viehes oder durch das Abweiden; unsere Lehrer erklären, Hinschicken ist Schaden durch Zertreten mit den Hufen, und Abweiden ist Schaden mit dem Zahn, der abfrisst und vernichtet (Bab. kam. 2b). 
+
+—4— **Wenn einer abweiden lässt,** <font color=#d633ff>🟌</font>כִּי <font color=#d633ff>🟌</font>יַבְעֶר er führt sein Vieh auf ein Feld oder in den Weinberg seines Nächsten und schadet ihm durch eins von folgenden beiden, entweder durch das Hinschicken des Viehes oder durch das Abweiden; unsere Lehrer erklären, Hinschicken <font color=#d633ff>🟌</font>וְשִׁלַּח ist Schaden durch Zertreten mit den Hufen, und Abweiden <font color=#d633ff>🟌</font>וּבִעֵר ist Schaden mit dem "Zahn", der abfrisst und vernichtet (Bab. kam. 2b). 
 
 ---
 
@@ -20,6 +24,8 @@
 
 —3— **Auf dem Felde eines anderen** = <font color=#d633ff>🟌</font>של <font color=#d633ff>🟌</font>איש <font color=#d633ff>🟌</font>אחר.
 
+—4— **Auf dem Felde eines anderen** = <font color=#d633ff>🟌</font>של <font color=#d633ff>🟌</font>איש <font color=#d633ff>🟌</font>אחר.
+
 ---
 
 ////—1—//// 22:4:4,"**From his prime field he must compensate [the owner].** We evaluate the damage and, if he intends to pay with land as compensation for his damage, he must pay him from the best of his fields; [e.g.] if [the damages] was a <font color=d50505>»</font>sela,<font color=d50505>«</font> then he should give him a <font color=d50505>»</font>sela<font color=d50505>«</font>’s worth from the best of the land that he owns. This verse teaches you that [when land is used as compensation for] damages we evaluate them [to be collected from] the best lands [of the one who caused the damages]. "
@@ -27,6 +33,8 @@
 §§—2—§§ 22:4:4,"<font color=#d633ff>🟌</font>מיטב <font color=#d633ff>🟌</font>שדהו … <font color=#d633ff>🟌</font>ישלם THE BEST OF HIS FIELD SHALL HE PAY — We assess the damage, and if the defendant proposes to make restitution to him for the damage he has suffered with “land’” then he has to pay him with the best of his fields. If for instance the damage amounted to a Sela he has to give him a Sela-worth of the best of the fields he possesses). Scripture teaches you that in cases of damages (which it is proposed to pay with land) we assess and collect them from the best land of the defendant (Mekhilta d'Rabbi Yishmael 22:4:6; Bava Kamma 6b)."
 
 —3— **Mit dem Besten seines Feldes zahle er,** man schätzt den Schaden ab, und wenn er ihm den Wert seines Schadens in Feld zahlen will, so zahle er mit dem Besten seiner Felder; wenn der Schaden einen Sela beträgt, gebe er ihm den Wert eines Sela vom Vorzüglichsten, das er hat; der Vers lehrt dich, dass man für Schäden vom Besten abschätzt (Bab. kam. 6b; Mech.). 
+
+—4— **Mit dem Besten seines Feldes zahle er,** man schätzt den Schaden ab, und wenn er ihm den Wert seines Schadens in Feld zahlen will, so zahle er mit dem Besten seiner Felder; wenn der Schaden einen *Sela* beträgt, gebe er ihm den Wert eines *Sela* vom Vorzüglichsten, das er hat; der Vers lehrt dich, dass man für Schäden vom Besten abschätzt (Bab. kam. 6b; Mech.). 
 
 ---
 
@@ -36,6 +44,8 @@
 
 —3— **5. Wenn Feuer ausbricht,** (Bab. kam. 22b) auch von selbst. 
 
+—4— **5. Wenn Feuer ausbricht,** (Bab. kam. [22b](https://www.sefaria.org/Exodus.22.5?lang=bi&with=Rashi&lang2=en&p3=Bava_Kamma.22b.10&lang3=bi&w3=all&lang4=en)) auch von selbst. 
+
 ---
 
 ////—1—//// 22:5:2,**And [catches on] thorns.** <font color=#d633ff>🟌</font>קוֹצִים are <font color=d50505>»</font>chardons<font color=d50505>«</font> (thistles) in Old French.
@@ -43,6 +53,8 @@
 §§—2—§§ 22:5:2, <font color=#d633ff>🟌</font>ומצאה <font color=#d633ff>🟌</font>קוצים AND CATCH IN THORNS —chardons in old French
 
 —3— **Und Dornen findet,** Disteln in andere Sprachen. 
+
+—4— **Und Dornen findet,** <font color=#d633ff>🟌</font>קוֹצִים *Disteln* in andere Sprachen. 
 
 ---
 
@@ -52,6 +64,8 @@
 
 —3— **Und ein Garbenhaufen verzehrt wird,** es beleckte die Dornen, bis es den Garbenhaufen erreichte oder Getreide, das noch mit der Erde verbunden ist. 
 
+—4— **Und ein Garbenhaufen verzehrt wird,** es beleckte die Dornen, bis es den Garbenhaufen erreichte oder Getreide, das noch mit der Erde verbunden ist. 
+
 ---
 
 ////—1—//// 22:5:4,**Or a field —** whereby [the flame] licked up his plowing and he now needs to plow it a second time.
@@ -59,6 +73,8 @@
 §§—2—§§ 22:5:4," <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>השדה OR THE FIELD — because it (the fire) liked up his furrow (the newly broken soil), so that it became hard and he (the owner) has to plough it again (Bava Kamma 60a)."
 
 —3— **Oder ein Feld,** es beleckte sein Brachfeld, und er muss es zum zweiten Male pflügen (Bab. kam. 60a). 
+
+—4— **Oder ein Feld,** es beleckte sein Brachfeld, und er muss es zum zweiten Male pflügen (Bab. kam. 60a). 
 
 ---
 
@@ -68,6 +84,8 @@
 
 —3— **Zahlen soll, der angezündet hat;** obschon er in **seinem** Besitzum angezündet hat und es von selbst weitergegangen ist infolge der Dornen, die es fand, muss er doch bezahlen, weil er seine glühende Kohle nicht gehütet hat, dass nicht Feuer ausbreche und Schaden anrichte. 
 
+—4— **Zahlen soll, der angezündet hat;** obschon er in **seinem** Besitzum angezündet hat und es von selbst weitergegangen ist infolge der Dornen, die es fand, muss er doch bezahlen, weil er seine glühende Kohle nicht gehütet hat, dass nicht Feuer ausbreche und Schaden anrichte. 
+
 ---
 
 ////—1—//// 22:6:1,**And they are stolen from the house of the [watch]man —** according to his own testimony.
@@ -75,6 +93,8 @@
 §§—2—§§ 22:6:1," <font color=#d633ff>🟌</font>וגנב <font color=#d633ff>🟌</font>מבית <font color=#d633ff>🟌</font>האיש AND IT BE STOLEN OUT OF THE MAN’S HOUSE — i. e. according to his statement),"
 
 —3— **6. Und es ward aus dem Hause des Mannes gestohlen,** nach seiner Angabe (Bab. kam. 63b). 
+
+—4— **6. Und es ward aus dem Hause des Mannes gestohlen,** nach seiner Angabe (Bab. kam. 63b). 
 
 ---
 
@@ -84,6 +104,8 @@
 
 —3— **Wenn der Dieb gefunden wird, zahle er,** der Dieb, dem Besitzer das Doppelte. 
 
+—4— **Wenn der Dieb gefunden wird, zahle er,** der Dieb, dem Besitzer das Doppelte. 
+
 ---
 
 ////—1—//// 22:7:1,"**If the thief is not found —** then this watchman, who is the owner of the house — "
@@ -92,11 +114,15 @@
 
 —3— **7. Wenn der Dieb nicht gefunden wird,** so komme dieser Hüter, das ist der Herr des Hauses, und **trete** zu den Richtern **hin,** mit dem anderen zu verhandeln und ihm zu schwören, dass er seine Hand nicht nach dem Seinigen ausgestreckt habe (dort). 
 
+—4— **7. Wenn der Dieb nicht gefunden wird,** so komme dieser Hüter, das ist der <font color=#d633ff>🟌</font>בעל <font color=#d633ff>🟌</font>הבית Herr des Hauses –
+
 ---
 
 ////—1—//// 22:7:2,"**must come —** to the judges, so as to adjudicate the case between him (the watchman) and the other (the original owner of the object), and he must swear to him that he did not in any way misappropriate his property. "
 
 §§—2—§§ 22:7:2," <font color=#d633ff>🟌</font>ונקרב <font color=#d633ff>🟌</font>אל AND SHALL APPROACH UNTO THE <font color=#d633ff>🟌</font>אלהים — the judges, to put his case against the other and to swear unto him that he has not put forth his hands against his property (Bava Kamma 63b)."
+
+—4— 22:7:2 und **trete** zu den Richtern (<font color=#d633ff>🟌</font>אלהים) **hin,** mit dem anderen zu verhandeln und ihm zu schwören, dass er seine Hand nicht nach dem Seinigen ausgestreckt habe (Bava Kamma 63b).
 
 
 ---
@@ -107,6 +133,8 @@
 
 —3— **8. Wegen jeder Veruntreuung,** wenn er bei seinem Schwur als Lügner befunden wird; wenn nämlich Zeugen aussagen, dass er es selbst gestohlen habe, und die Richter ihn auf Grund der Zeugen für schuldig erklären. 
 
+—4— **8. Wegen jeder Veruntreuung,** wenn er bei seinem Schwur als Lügner befunden wird; wenn nämlich Zeugen aussagen, dass er es selbst gestohlen habe, und die Richter ihn auf Grund der Zeugen für schuldig erklären. 
+
 ---
 
 ////—1—//// 22:8:2,"**He must pay double restitution to his neighbor.** The Torah teaches you that if one makes a claim, regarding an object left for safekeeping, saying that it was stolen from him, and then it is discovered that he himself stole it, he must pay double restitution. However, when does this apply? In a case where he swears and afterwards witnesses come [and contradict him] for our Sages expounded [this verse] thus: The owner of the house <font color=d50505>»</font>shall approach<font color=d50505>«</font> the Beis Din this “approaching” refers to taking an oath. You claim that it refers to taking an oath, or perhaps it refers only to presenting the case, and when he presents his case and denies any obligation by claiming it was stolen he is immediately liable to pay twofold once witnesses come [and testify] that it is in his possession? [That this is not the case here is indicated by a <font color=#d633ff>🟌</font>גְּזֵרָה <font color=#d633ff>🟌</font>שָׁוָה:] The term <font color=#d633ff>🟌</font>שְׁלִחוּת <font color=#d633ff>🟌</font>יָד is stated here and further on the term <font color=#d633ff>🟌</font>שְׁלִיחוּת <font color=#d633ff>🟌</font>יָד is also used: “An oath to God shall be between them that he did not lay his hand (<font color=#d633ff>🟌</font>לֹא <font color=#d633ff>🟌</font>שָׁלַח <font color=#d633ff>🟌</font>יָדוֹ).” Just as in the latter case it (<font color=#d633ff>🟌</font>שְׁלִיחוּת <font color=#d633ff>🟌</font>יַד) refers to taking an oath, here, too, it refers to taking an oath. "
@@ -114,6 +142,8 @@
 §§—2—§§ 22:8:2," <font color=#d633ff>🟌</font>ישלם <font color=#d633ff>🟌</font>שנים <font color=#d633ff>🟌</font>לרעהו HE SHALL PAY THE DOUBLE TO HIS FELLOW-MAN — Scripture teaches you that in a case of a bailment where one pleads that it has been stolen from him and it is proved that he himself has stolen it he is liable to pay “kefel” (twice the value of the article) to the owner. When, however, does this law hold good? In the case that he has taken an oath that it has been stolen from him and witnesses afterwards appear and testify to the contrary. For our Rabbis expound this phrase as follows: (Bava Kamma 63b) “and the owner of the house shall approach unto the judges” — this “approaching the judges” is an expression signifying the taking of an oath. You say that it means approaching the judges in order to take an oath, but perhaps this is not so, and it means that he approaches them to put his case, and that the meaning of the verse is. that as soon as the bailee appears before the court and denies any liability, saying, “it has been stolen” from me, he at once becomes liable to pay double if witnessess appear who testify that the bailment is still in his possession? You certainly cannot argue thus! For “conversion” (<font color=#d633ff>🟌</font>שליחות <font color=#d633ff>🟌</font>יד) is mentioned here and later on (v. 10) it is mentioned again: “Then shall the oath of the Lord be between the two of them, if he hath not put his hand (<font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>שלח <font color=#d633ff>🟌</font>ידו) unto his fellow-man’s goods”. — Now, what is the meaning of the phrase in the latter case? It is evident from what precedes it that it is a matter of taking an oath! So also here it is a matter of taking an oath. (Bava Kamma 63b)."
 
 —3— **So zahle er das Zweifache seinem Nächsten,** der Vers lehrt dich, dass, wenn jemand von anvertrautem Gut behauptet, es sei ihm gestohlen worden, und es sich herausstellt, dass er es selbst gestohlen hat, er doppelten Ersatz zahlen muss, und zwar wann? Wenn er geschworen hat und dann Zeugen kamen. Denn so erklären unsere Lehrer (Mech.), der Hausherr trete zu den Richtern hin, dies Hintreten bedeutet Schwören; du sagst Schwören, oder vielleicht nicht so, sondern Verhandeln, dass er nämlich, sobald er zum Gericht gekommen ist und abgeleugnet hat, indem er sagte, es sei gestohlen worden, sofort das Doppelte zahlen müsse, wenn Zeugen kommen und aussagen, dass es in seinem Besitze sei? Es steht aber hier Ausstrecken der Hand und steht weiter (V. 10) Ausstrecken der Hand, ein Schwur beim Ewiger sei zwischen beiden, dass er seine Hand nicht ausgestreckt; sowie dort von einem Schwur die Rede ist, so spricht man auch hier von einem Schwur. 
+
+—4— **So zahle er das Zweifache seinem Nächsten,** der Vers lehrt dich, dass, wenn jemand von anvertrautem Gut behauptet, es sei ihm gestohlen worden, und es sich herausstellt, dass er es selbst gestohlen hat, er doppelten Ersatz zahlen muss, und zwar wann? Wenn er geschworen hat und dann Zeugen kamen. Denn so erklären unsere Lehrer (Mech.), der Hausherr trete zu den Richtern hin, dies Hintreten bedeutet Schwören; du sagst Schwören, oder vielleicht nicht so, sondern Verhandeln, dass er nämlich, sobald er zum Gericht gekommen ist und abgeleugnet hat, indem er sagte, es sei gestohlen worden, sofort das Doppelte zahlen müsse, wenn Zeugen kommen und aussagen, dass es in seinem Besitze sei? Es steht aber hier Ausstrecken der Hand und steht weiter (V. 10) Ausstrecken der Hand, ein Schwur beim Ewiger sei zwischen beiden, dass er seine Hand nicht ausgestreckt; sowie dort von einem Schwur die Rede ist, so spricht man auch hier von einem Schwur. 
 
 ---
 
@@ -123,6 +153,8 @@
 
 —3— **Von dem man sagt, das ist es;** nach dem einfachen Sinn, von dem der Zeuge sagt, das ist es, worauf du geschworen hast; siehe, es ist in deinem Besitze; zu den Richtern  **komme die Sache der beiden,** dass sie die Zeugen prüfen; und wenn diese gut sind und man den Hüter für schuldig erklärt, **zahle er das Zweifache;** wenn man aber die Zeugen für schuldig erklärt, wenn diese als falsch befunden werden, so zahlen sie dem Hüter das Zweifache. Unsere Lehrer s. A. (Mech.) erklären, **das ist es,** bedeutet, dass man ihn nur dann zu einem Schwur verurteilt, wenn er einen Teil eingestanden hat, indem er sagte, soundso viel bin ich dir schuldig, und das andere ist mir gestohlen worden. 
 
+—4— **Von dem man sagt, "das ist es";** nach dem einfachen Sinn, von dem *der Zeuge* sagt, "*das ist es*, worauf du geschworen hast"; siehe, es ist in deinem Besitze; zu den Richtern  **komme die Sache der beiden,** dass sie die Zeugen prüfen; und wenn diese gut sind und man den Hüter für schuldig erklärt, **zahle er das Zweifache;** wenn man aber die Zeugen für schuldig erklärt, wenn diese als falsch (<font color=#d633ff>🟌</font>זוֹמְמִין) befunden werden, so zahlen sie dem Hüter das Zweifache. Unsere Lehrer s. A. (Mech.) erklären, **das ist es,** bedeutet, dass man ihn nur dann zu einem Schwur verurteilt, wenn er einen Teil eingestanden hat, indem er sagte, "*das ist es*, was ich dir schuldig bin, und das andere ist mir gestohlen worden". (Bava Kamma 107b)
+
 ---
 
 ////—1—//// 22:9:1,"**If a man gives his neighbor a donkey or an ox.** The first section deals with a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם — a watchman who receives no compensation. He is, therefore, not held responsible for theft (i.e., if the item is stolen from him), as is written: “[If a man gives his neighbor...] and they are stolen from the house of the watchman.” “If the thief is not found then the house-owner (the watchman) must come,” to swear. You learn from this that he (the watchman) frees himself [from any responsibility] with this oath. But this section deals with a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָֹכָר (a watchman compensated for his work), who is not freed from responsibility if [the item to be watched] is stolen, as is written: “But if it was indeed stolen from him he must make restitution.” However, for something over which he has no control, as in a case where it (an animal) died of itself, or was injured, or was forcibly taken by robbers, and there is no one who saw it happen so as to be able to testify about the matter, then — "
@@ -130,6 +162,8 @@
 §§—2—§§ 22:9:1," <font color=#d633ff>🟌</font>כי <font color=#d633ff>🟌</font>יתן <font color=#d633ff>🟌</font>איש <font color=#d633ff>🟌</font>אל <font color=#d633ff>🟌</font>רעהו <font color=#d633ff>🟌</font>חמור <font color=#d633ff>🟌</font>או <font color=#d633ff>🟌</font>שור IF A MAN GIVE UNTO HIS FELLOW-MAN AN ASS OR AN OX — The first section (v. 6—9) speaks of the gratuitous bailee and therefore (since the chattels are kept for the use of the bailor only) Scripture frees him of liability for theft, as it is written, (v. 6) “[If a man shall give … to keep] and it be stolen out of the man’s house, if the thief be not found, then the owner of the house shall approach the judges” to take an oath (cf. Rashi v. 7). You may learn from this that he (the bailee) frees himself from liability by this oath. This section (v. 9—12), however, speaks of a “bailee for payment” (<font color=#d633ff>🟌</font>שומר <font color=#d633ff>🟌</font>שכר) who is therefore not free from liability if the object has been stolen, as it is written, “but if it be certainly stolen from him, he shall pay [unto the owner thereof]” (Bava Metzia 94b). However, for any loss over which he has no control — if, for instance, the animal died a natural death or has been injured by a wild beast, or forcibly seized by robbers,  and <font color=#d633ff>🟌</font>אין <font color=#d633ff>🟌</font>רואה  NO ONE SEEING IT that could testify in this matter"
 
 —3— **9. Wenn einer dem anderen einen Esel oder einen Ochsen gibt,** der erste Abschnitt spricht vom unbezahlten Hüter; darum macht er ihn für einen Diebstahl nicht verantwortlich, wie es heißt, und es wird aus dem Hause des Mannes gestohlen, wenn der Dieb nicht gefunden wird, so trete der Hausherr zum Schwören hin; daraus lernst du, dass er sich durch diesen Schwur frei macht. Dieser Abschnitt aber spricht vom bezahlten Hüter; darum ist er nicht frei, wenn es gestohlen wird; wie geschrieben steht, **wenn es von ihm gestohlen wird, zahle er es;** aber bei einem Notfall, wenn es z. B. von selbst gestorben oder zerbrochen ist oder von Räubern mit Gewalt weggeführt worden ist und keiner es gesehen hat, der Zeugnis aussagen könnte. 
+
+—4— **9. Wenn einer dem anderen einen Esel oder einen Ochsen gibt,** der erste Abschnitt (V. 6-9) spricht vom unbezahlten Hüter (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם); darum macht er ihn für einen Diebstahl nicht verantwortlich, wie es heißt: «und es wird aus dem Hause des Mannes gestohlen, wenn der Dieb nicht gefunden wird, so trete der Hausherr zum Schwören hin» (V. 6). Daraus lernst du, dass er sich durch diesen Schwur frei macht. Dieser Abschnitt (V. 9—12) aber spricht vom bezahlten Hüter (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָֹכָר); darum ist er nicht frei, wenn es gestohlen wird; wie geschrieben steht: **wenn es von ihm gestohlen wird, zahle er es** (Bava Metzia 94b). Aber bei einem Notfall, wenn es z. B. von selbst gestorben oder zerbrochen ist oder von Räubern mit Gewalt weggeführt worden ist und *keiner es gesehen hat*, der Zeugnis aussagen könnte. 
 
 ---
 
@@ -139,11 +173,15 @@
 
 —3— **10. So sei ein Schwur des Ewigen,** so schwöre er, dass es so ist, wie er sagt, und er nicht die Hand danach ausgestreckt hat, es für sich zu benutzen; denn, wenn er die Hand danach ausgestreckt hat und es dann durch einen Notfall verlorengegangen ist, so haftet er für jeden Notfall (Bawa Metzia 94b). 
 
+—4— **10. So sei ein Schwur des Ewigen,** so schwöre er, dass es so ist, wie er sagt, und er nicht die Hand danach ausgestreckt hat, es für sich zu benutzen; denn, wenn er die Hand danach ausgestreckt hat und es dann durch einen Notfall verlorengegangen ist, so haftet er für jeden Notfall (Bawa Metzia 94b). 
+
 ---
 
 ////—1—//// 22:10:2,"**The owner must accept it.** [I.e., he must accept] the oath. "
 
 §§—2—§§ 22:10:2," <font color=#d633ff>🟌</font>ולקח <font color=#d633ff>🟌</font>בעליו AND THE OWNER OF IT SHALL ACCEPT IT — i. e. shall accept the oath (Bava Kamma 106a),"
+
+—4— **Das nehme der Eigentümer an,** den Schwur (Onkelos; Bava Kamma 106a). 
 
 
 ---
@@ -152,7 +190,7 @@
 
 §§—2—§§ 22:10:3," <font color=#d633ff>🟌</font>ולא <font color=#d633ff>🟌</font>ישלם AND HE — the bailee — SHALL NOT PAY HIM (the bailor) anything, not even the capital (<font color=#d633ff>🟌</font>קרן)."
 
-—3— **Das nehme der Eigentümer an,** den Schwur (Onkelos), und der Hüter bezahle ihm nichts. 
+—4—  **und er bezahle ihm nicht**, und der Hüter bezahle ihm nichts. 
 
 ---
 
@@ -162,6 +200,8 @@
 
 —3— **12. Wenn es zerrissen wird,** durch ein reißendes Tier. 
 
+—4— **12. Wenn es zerrissen wird,** durch ein reißendes Tier. 
+
 ---
 
 ////—1—//// 22:12:2,"**He must provide witnesses.** [I.e.,] he shall bring [two] witnesses that it was torn apart [in a way that was] beyond his control and he will then not be liable to pay restitution. "
@@ -170,13 +210,17 @@
 
 —3— **Bringe er Zeugen dafür,** bringe er Zeugen, dass es durch einen Notfall zerrissen worden, und er ist frei. 
 
+—4— **Bringe er Zeugen dafür,** bringe er Zeugen, dass es durch einen Notfall zerrissen worden, und er ist frei. 
+
 ---
 
 ////—1—//// 22:12:3,"**He need not pay for that which was torn apart.** It does not say: <font color=#d633ff>🟌</font>טְרֵפָה <font color=#d633ff>🟌</font>לֹא <font color=#d633ff>🟌</font>יְשַׁלֵּם (he need not pay for [any] one which was torn): but, rather, it says: <font color=#d633ff>🟌</font>הַטְּרֵפָה [for <font color=d50505>»</font>this<font color=d50505>«</font> one that was torn). [This indicates that] there is a torn one for which he must pay, and there is a torn one for which he need not pay: For one that was torn apart by a cat, fox, or marten he must pay restitution. Whereas, for one that was torn apart by a wolf, lion, bear, or snake, he need not pay. But who whispered to you to come to these conclusions? Because it is written: “and it dies, or is injured, or is captured.” Just as [the animal’s] dying naturally is something he cannot prevent, so, too, the case of injury and captivity [must be such] that he had no way of preventing it. "
 
 §§—2—§§ 22:12:3," <font color=#d633ff>🟌</font>הטרפה <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>ישלם HE SHALL NOT PAY THAT WHICH HAS BEEN TORN — It does not say <font color=#d633ff>🟌</font>טרפה <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>ישלם “one which has been torn he shall not pay for” — but it says “the torn one”, (the one mentioned here, viz., that which was torn without him being able to prevent it). Because there is a torn beast for which he has to pay and a torn beast for which he has not to pay. For an animal torn by a cat, a fox or a marten he has indeed to make restitution; but for one torn by a wolf, a lion, a bear or a serpent he is not liable to pay. But how do you come to make such a distinction (lit., who whispered to you to draw such a conclusion)? Because, you see, it states, “and if it die or be injured, or be captured”. Now what is the characteristic of natural death? One cannot save from it! Thus, also, the injury and the capture must be such that he was unable to save the animal from it (cf. Mekhilta d'Rabbi Yishmael 22:12)."
 
-—3— **Das Zerrissene braucht er nicht zu bezahlen;** er sagt nicht, Zerrissenes zahle er nicht, sondern das Zerrissene; es gibt Zerrissenes, das er zahlen muss, und es gibt Zerrissenes, das er nicht zahlen muss. Was von einer Katze, einem Fuchs oder einem Marder zerrissen wird, bezahlt er; was aber von einem Wolf, einem Löwen, einem Bären oder einer Schlange zerrissen wird, zahlt er nicht. Und wer hat dir leise gesagt, so zu beweisen? Weil geschrieben steht, es stirbt oder zerbricht oder wird gefangen weggeführt; wie er es vom Tode nicht retten konnte, so ist auch nur ein solcher Bruch oder Raub gemeint, vor denen er es nicht retten konnte (Mech.). 
+—3— **Das Zerrissene braucht er nicht zu bezahlen;** er sagt nicht, Zerrissenes zahle er nicht, sondern das Zerrissene; es gibt Zerrissenes, das er zahlen muss, und es gibt Zerrissenes, das er nicht zahlen muss. Was von einer Katze, einem Fuchs oder einem Marder zerrissen wird, bezahlt er; was aber von einem Wolf, einem Löwen, einem Bären oder einer Schlange zerrissen wird, zahlt er nicht. Und wer hat dir leise gesagt, so zu beweisen? Weil geschrieben steht, es stirbt oder zerbricht oder wird gefangen weggeführt; wie er es vom Tode nicht retten konnte, so ist auch nur ein solcher Bruch oder Raub gemeint, vor denen er es nicht retten konnte (Mech.).
+
+—4— **Das Zerrissene braucht er nicht zu bezahlen;** er sagt nicht, Zerrissenes zahle er nicht <font color=#d633ff>🟌</font>טְרֵפָה <font color=#d633ff>🟌</font>לֹא <font color=#d633ff>🟌</font>יְשַׁלֵּם, sondern das Zerrissene 🟌</font>הַטְּרֵפָה; es gibt *Zerrissenes*, das er zahlen muss, und es gibt *Zerrissenes*, das er nicht zahlen muss. Was von einer Katze, einem Fuchs oder einem Marder zerrissen wird, bezahlt er; was aber von einem Wolf, einem Löwen, einem Bären oder einer Schlange zerrissen wird, zahlt er nicht. Und wer hat dir leise gesagt, so zu beweisen? Weil geschrieben steht: «es stirbt oder zerbricht oder wird gefangen weggeführt». Wie er es vom Tode nicht retten konnte, so ist auch nur ein solcher Bruch oder Raub gemeint, vor denen er es nicht retten konnte (Mekhilta d'Rabbi Yishmael 22:12). 
 
 ---
 
@@ -186,6 +230,8 @@
 
 —3— **13. Wenn jemand leiht,** das lehrt für den, der leiht, dass er auch für Notfälle haftet. 
 
+—4— **13. Wenn jemand leiht,** das lehrt für den, der leiht, dass er auch für Notfälle haftet. 
+
 ---
 
 ////—1—//// 22:13:2,**If the owner is not with him.** [Meaning:] if the owner of the ox is not employed by the borrower to do his work.
@@ -193,6 +239,8 @@
 §§—2—§§ 22:13:2," <font color=#d633ff>🟌</font>בעליו <font color=#d633ff>🟌</font>אין <font color=#d633ff>🟌</font>עמו THE OWNER THEREOF NOT BEING WITH IT (lit., with “him”) — i. e. if the owner of the ox is not employed with the borrower in his work (Bava Metzia 95b)."
 
 —3— **Wenn der Besitzer nicht bei ihm ist;** wenn der Besitzer des Ochsen nicht bei dem, der leiht, arbeitet (Bawa Metzia 95b). 
+
+—4— **Wenn der Besitzer nicht bei ihm ist;** wenn der Besitzer des Ochsen nicht bei dem, der leiht, arbeitet (Bawa Metzia 95b). 
 
 ---
 
