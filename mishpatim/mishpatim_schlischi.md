@@ -250,6 +250,8 @@
 
 —3— **14. Wenn der Besitzer bei ihm ist,** sei es bei derselben Arbeit, sei es bei einer anderen Arbeit; wenn er nur bei ihm war, als jener sich die Sache von ihm geliehen hat, aber er braucht nicht bei ihm zu sein, während es zerbricht oder stirbt (Bawa Metzia 95b). 
 
+—4— **14. Wenn der Besitzer bei ihm ist,** sei es bei *derselben* Arbeit, sei es bei einer anderen Arbeit; wenn er nur bei ihm war, als jener sich die Sache von ihm geliehen hat, aber er braucht nicht bei ihm zu sein, während es zerbricht oder stirbt (Bawa Metzia 95b). 
+
 ---
 
 ////—1—//// 22:14:2,"**If it was hired.** [I.e.] if the ox was not borrowed but rather hired, then, since it (<font color=#d633ff>🟌</font>בָּא <font color=#d633ff>🟌</font>בִשְׂכָרוֹ) came for its rental fee into the hands of the <font color=d50505>»</font>lessee,<font color=d50505>«</font> and not through borrowing, and the benefit is not his entirely for it is in return for its rental fee that he uses it, the rule of the borrower does not apply to him — to make him liable even for accidents. The Torah does not make it clear what rule applies to him (the hirer), whether [he is considered] a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם or a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָׂכָר . Therefore the Sages of Yisrael disputed this matter: What manner of restitution does a hirer make? Rabbi Meir said: as a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם . Rabbi Yehudah said: as a <font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָׂכָר .” "
@@ -257,6 +259,8 @@
 §§—2—§§ 22:14:2," <font color=#d633ff>🟌</font>אם <font color=#d633ff>🟌</font>שכיר <font color=#d633ff>🟌</font>הוא IF IT BE HIRED — i. e. if the ox has not been borrowed but hired, <font color=#d633ff>🟌</font>בא <font color=#d633ff>🟌</font>בשכרו THEN IT CAME FOR ITS HIRE into the hand of this hirer and not by way of loan. For he does not get the entire benefit of the transaction since he is using it only because he has paid hire for it and consequently the owner benefits also; therefore the law applicable to a borrower does not apply in his case — that he should be held liable for loss by accident. Scripture, however, does not state explicity what his (the hirer’s) law actually is — whether he has to be treated as the gratuitous bailee (<font color=#d633ff>🟌</font>שומר <font color=#d633ff>🟌</font>חנם) or as the bailee for payment (<font color=#d633ff>🟌</font>שומר <font color=#d633ff>🟌</font>שכר), and therefore the Sages in Israel differ in their opinion as to how the hirer (<font color=#d633ff>🟌</font>שוכר) has to make restitution. R. Meir says he is responsible only as a gratuitous bailee, whilst R. Judah says, even as a bailee for payment (Bava Metzia 80b)."
 
 —3— **Wenn es gemietet ist;** wenn der Ochs nicht geliehen, sondern gemietet ist,  **so ist er für die Miete** in die Hand dieses Mieters **gekommen,** und nicht geliehen, und dieser hat nicht den ganzen Nutzen, da er ihn nur für die Miete benutzen darf; für ihn gilt nicht die Vorschrift dessen, der geliehen hat, auch für Notfälle zu haften. Der Vers erklärt aber nicht, welches seine Vorschrift ist, ob wie die des unbezahlten Hüters oder wie die des bezahlten Hüters; darum sind die Weisen Israels verschiedener Ansicht darüber, wie der Mieter bezahle; R. Meir sagt, wie der unbezahlte Hüter, R. Juda sagt, wie der bezahlte Hüter (Bawa Metzia 80b). 
+
+—4— **Wenn es gemietet ist;** wenn der Ochs nicht geliehen, sondern gemietet ist, **so ist er für die Miete** (<font color=#d633ff>🟌</font>בָּא <font color=#d633ff>🟌</font>בִשְׂכָרוֹ) in die Hand dieses Mieters **gekommen,** und nicht geliehen, und dieser hat nicht den ganzen Nutzen, da er ihn nur für die Miete benutzen darf; für ihn gilt nicht die Vorschrift dessen, der geliehen hat, auch für Notfälle zu haften. Der Vers erklärt aber nicht, welches seine Vorschrift ist, ob wie die des unbezahlten Hüters (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם) oder wie die des bezahlten Hüters (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָׂכָר); darum sind die Weisen Israels verschiedener Ansicht darüber, wie der Mieter bezahle; R. Meir sagt, wie der unbezahlte Hüter (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>חִנָּם), R. Juda sagt, wie der bezahlte Hüter (<font color=#d633ff>🟌</font>שׁוֹמֵר <font color=#d633ff>🟌</font>שָׂכָר) (Bawa Metzia 80b). 
 
 ---
 
@@ -266,6 +270,8 @@
 
 —3— **15. Wenn überredet,** redet ihr zu Herzen, bis sie auf ihn hört; so übersetzt auch der Targum, wenn zuredet; <font color=#d633ff>🟌</font>שדול im Aramäischen = <font color=#d633ff>🟌</font>פתוי im Hebräischen. 
 
+—4— **15. Wenn überredet,** redet ihr zu Herzen, bis sie auf ihn hört; so übersetzt auch der Targum, wenn zuredet; וַאֲרֵי <font color=#d633ff>🟌</font>יְשַׁדֵּל, <font color=#d633ff>🟌</font>שִׁדוּל im Aramäischen = <font color=#d633ff>🟌</font>פִּתּוּי im Hebräischen.
+
 ---
 
 ////—1—//// 22:15:2,"**He must give the dowry.** He must set aside a dowry for her as is the law regarding a man and his wife, i.e., he must write a <font color=d50505>»</font>kesubah<font color=d50505>«</font> (marriage contract) and then marry her. "
@@ -273,6 +279,8 @@
 §§—2—§§ 22:15:2," <font color=#d633ff>🟌</font>מהר <font color=#d633ff>🟌</font>ימהרנה HE SHALL SURELY GIVE HER THE MARRIAGE PRICE — He shall assign her a marriage portion as is the practice of a man to do to his wife, i. e. he shall write her a Ketuba (marriage contract providing for a marriage portion) and shall marry her (Mekhilta d'Rabbi Yishmael 22:15:3)."
 
 —3— **Soll er ihr eine Morgengabe bestimmen,** bestimme für sie eine Morgengabe; wie es Vorschrift für einen Mann seiner Frau gegenüber ist, dass er ihr eine Ketuba (Heiratsurkunde) schreibe und sie heirate (Mech.). 
+
+—4— **Soll er ihr eine Morgengabe bestimmen,** bestimme für sie eine Morgengabe; wie es Vorschrift für einen Mann seiner Frau gegenüber ist, dass er ihr eine *Ketuba* (Heiratsurkunde) schreibe und sie heirate (Mekhilta d'Rabbi Yishmael 22:15:3). 
 
 ---
 
@@ -282,6 +290,8 @@
 
 —3— **16. Gleich der Morgengabe der Jungfrauen,** für die 50 Silberstücke bestimmt sind bei demjenigen, der eine Jungfrau ergreift und mit Gewalt bei ihr wohnt; so heißt es (Deut. 22,29), es gebe der Mann, der bei ihr wohnte, dem Vater des Mädchens 50 Silberstücke (Mech.). 
 
+—4— **16. Gleich der Morgengabe der Jungfrauen,** für die 50 Silberstücke (*schekalim*) bestimmt sind bei demjenigen, der eine Jungfrau ergreift und mit Gewalt bei ihr wohnt; so heißt es (Deut. 22,29), es gebe der Mann, der bei ihr wohnte, dem Vater des Mädchens 50 Silberstücke (*schekalim*) (Mekhilta d'Rabbi Yishmael 22:16:2; Ketubot 10a). 
+
 ---
 
 ////—1—//// 22:17:1,"**You shall not allow a witch to live.** But she must be put to death by the court. [This applies] whether they are male or female but the Torah [uses the feminine] because it speaks of what is usual, for it is women who are most commonly witches. "
@@ -289,6 +299,8 @@
 §§—2—§§ 22:17:1, <font color=#d633ff>🟌</font>מכשפה <font color=#d633ff>🟌</font>לא <font color=#d633ff>🟌</font>תחיה THOU SHALT NOT SUFFER A WITCH TO LIVE — This does not mean that you may kill her but she shall be put to death by the court. Both men and women who practise witchcraft are included in this law but in using the feminine term <font color=#d633ff>🟌</font>מכשפה Scripture speaks of what is usually the case; for it is women who mostly practise witchcraft (Sanhedrin 67a).
 
 —3— **17. Eine Zauberin sollst du nicht am Leben lassen,** sondern durch das Gericht töten, und es ist zwischen Männern und Frauen kein Unterschied; nur spricht der Vers von dem, was gewöhnlich vorkommt; Frauen geben sich mehr mit Zauberei ab (Mech.). 
+
+—4— **17. Eine Zauberin sollst du nicht am Leben lassen,** sondern durch das Gericht töten, und es ist zwischen Männern und Frauen kein Unterschied; nur spricht der Vers (<font color=#d633ff>🟌</font>מכשפה, weibliche Form) von dem, was gewöhnlich vorkommt; Frauen geben sich mehr mit Zauberei ab (Mech.; Sanhedrin 67a). 
 
 ---
 
@@ -298,6 +310,8 @@
 §§—2—§§ 21:17) (Mekhilta d'Rabbi Yishmael 22:18)]."
 
 —3— **18. Wer einem Tiere beiwohnt, soll getötet werden,** durch Steinigung (Mech.); der beiwohnt, und dasjenige, dem beigewohnt wird; denn es steht bei ihnen (Lev. 20, 16), ihre Blutschuld ruht auf ihnen. 
+
+—4— **18. Wer einem Tiere beiwohnt, soll getötet werden,** durch Steinigung (Mekhilta d'Rabbi Yishmael 22:18); der beiwohnt, und dasjenige, dem beigewohnt wird; denn es steht bei ihnen (Lev. 20, 16), «ihre Blutschuld ruht auf ihnen». 
 
 ---
 
